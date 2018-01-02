@@ -1,0 +1,345 @@
+#0000
+<FRE<WAI9999<END
+
+#1000
+<MSG<TURBroni brak.<WAI9999<END
+#1001
+<MSG<TUR- Wąż -
+Przechodzi przez ściany.
+Chaba zrobił go w Labiryncie.<WAI9999<END
+#1002
+<MSG<TUR- Gwiazda Polarna -
+Najprostszy pistolet.
+Nosi symbol Polaris.
+<WAI9999<END
+#1003
+<MSG<TUR- Ogniokula -
+Toczy się po ziemi.
+Przydatne na niewielkich stokach.<WAI9999<END
+#1004
+<MSG<TUR- Karabin maszynowy -
+Szybkostrzelna broń automatyczna.
+Sama się przeładowuje.<WAI9999<END
+#1005
+<MSG<TUR- Wyrzutnia rakiet -
+Ma duży zasięg i obrażenia,
+lecz także ograniczoną amunicję.<WAI9999<END
+#1007
+<MSG<TUR- Bąbler -
+Z kominka w sali zgromadzeń.
+Od ciebie zależy, jak go użyjesz.<WAI9999<END
+#1009
+<MSG<TUR- Klinga -
+Jednostrzałowa, potężna broń.
+Zamieszkuje w niej dusza Kinga.<WAI9999<END
+#1010
+<MSG<TUR- Superrakiety -
+Lepszy rodzaj rakiet.
+Ich przyspieszenie jest niezrównane.<WAI9999<END
+#1012
+<MSG<TUR- Nemesis -
+Błyskawica Bogini.
+Dla doświadczonych graczy.<WAI9999<END
+#1013
+<MSG<TUR- Supernowa -
+Przytrzymaj przycisk strzału,
+by wystrzelić laser.<WAI9999<END
+
+#1100
+<MSG<TURHajime<WAI9999<END
+#1101
+<MSG<TURMick<WAI9999<END
+#1102
+<MSG<TURShinobu<WAI9999<END
+#1103
+<MSG<TURKakeru<WAI9999<END
+#1104
+<MSG<TURNene<WAI9999<END
+
+#1200
+<MSG<TURZwierzak Jenki, lider psów.
+Zgubił się, szukając swoich braci,
+więc przygarnęła go Curly.<WAI9999<END
+#1201
+<MSG<TURZwierzak Jenki. Lubi szukać skarbów.
+A raczej skrzynie ze skarbami,
+ostatnio zaczął w nich sypiać.<WAI9999<END
+#1202
+<MSG<TURZwierzak Jenki. Lubi ciemne miejsca.
+Ma słaby wzrok, więc nawiguje
+w ciemności głównie swoim instynktem.<WAI9999<END
+#1203
+<MSG<TURZwierzak Jenki. Uwielbia kości,
+zakopuje je w przeróżnych miejscach,
+w większośći już zapomnianych.<WAI9999<END
+#1204
+<MSG<TURZwierzak Jenki. Przez większość 
+czasu śpi, ale jej sny podobno
+przewidują przyszłość.<WAI9999<END
+
+#5000
+<MSG<TURPrzedmiotów brak.<WAI9999<END
+#5001
+<MSG<TURKlucz Artura<WAI9999<END
+#5002
+<MSG<TURElektroniczna mapa<WAI9999<END
+#5003
+<MSG<TURKlucz Santy<WAI9999<END
+#5004
+<MSG<TURSrebrny medalion<WAI9999<END
+#5005
+<MSG<TURBeast Fang<WAI9999<END
+#5006
+<MSG<TURKapsułka zdrowia<WAI9999<END
+#5007
+<MSG<TURKarta ID<WAI9999<END
+#5008
+<MSG<TURSok z meduzy<WAI9999<END
+#5009
+<MSG<TURPordzewiały klucz<WAI9999<END
+#5010
+<MSG<TURKlucz "guma"<WAI9999<END
+#5011
+<MSG<TURBryłka gumy<WAI9999<END
+#5012
+<MSG<TURWęgiel drzewny<WAI9999<END
+#5013
+<MSG<TURBomba<WAI9999<END
+#5014
+<FLJ3000:1100
+<FLJ3001:1101
+<FLJ3002:1102
+<FLJ3003:1103
+<FLJ3004:1104
+<MSG<TURSzczeniaczek<WAI9999<END
+#5015
+<MSG<TUREliksir zdrowia<WAI9999<END
+#5016
+<MSG<TURPanaceum<WAI9999<END
+#5017
+<MSG<TURKlucz do kliniki<WAI9999<END
+#5018
+<MSG<TURBooster v0.8<WAI9999<END
+#5019
+<MSG<TUROsłona uzbrojenia<WAI9999<END
+#5020
+<MSG<TURTurboprzeładowarka<WAI9999<END
+#5021
+<MSG<TURZbiornik powietrza Curly<WAI9999<END
+#5022
+<MSG<TURStoper Nikumaru<WAI9999<END
+#5023
+<MSG<TURBooster v2.0<WAI9999<END
+#5024
+<MSG<TURMaska Mimigi<WAI9999<END
+#5025
+<MSG<TURKlucz do teleportera<WAI9999<END
+#5026
+<MSG<TURList Sue<WAI9999<END
+#5027
+<MSG<TURKontroler<WAI9999<END
+#5028
+<MSG<TURZepsuty zraszacz<WAI9999<END
+#5029
+<MSG<TURZraszacz<WAI9999<END
+#5030
+<MSG<TURLina holownicza<WAI9999<END
+#5031
+<MSG<TURGliniana figurka<WAI9999<END
+#5032
+<MSG<TURMały człowieczek<WAI9999<END
+#5033
+<MSG<TUROdznaka Grzyba<WAI9999<END
+#5034
+<MSG<TURMa Pignon<WAI9999<END
+#5035
+<MSG<TURBielizna Curly<WAI9999<END
+#5036
+<MSG<TURMedal Kosmity<WAI9999<END
+#5037
+<MSG<TURSzminka Chaco<WAI9999<END
+#5038
+<MSG<TURFiglarna gwiazdka<WAI9999<END
+#5039
+<MSG<TURŻelazna więź <WAI9999<END
+
+#6000
+<MSG<TURPrzedmiotów brak.<WAI9999<END
+#6001
+<MSG<TURKlucz do domu Artura,
+Był schowany koło
+jego nagrobka.<WAI9999<END
+#6002
+<PRI<EVE7002<MPJ7002<MSGNo data for this floor.<NOD<CLR<END
+#6003
+<MSG<TURKlucz do domu Santy.<WAI9999<END
+#6004
+<MSG<TURSrebrny medalion w kształcie
+ryby. Sądząc po jego stanie,
+był przechowywany latami.<WAI9999<END
+#6005
+<MSG<TURA sharp fang found at the
+Yamashita Farm. Is its owner still
+alive...?<WAI9999<END
+#6006
+<MSG<TURKapsułka zdrowia.<WAI9999<END
+#6007
+<MSG<TURKarta ID znaleziona
+w Jaju nr 06.<WAI9999<END
+#6008
+<MSG<TURPłyn gaszący ogień 
+w kominkach.<WAI9999<END
+#6009
+<MSG<TURPordzewiały klucz.<WAI9999<END
+#6010
+<MSG<TURNa zawieszce jest
+napisane "guma".<WAI9999<END
+#6011
+<MSG<TURBryłka gumy.<WAI9999<END
+#6012
+<MSG<TURZabrany z kominka.<WAI9999<END
+#6013
+<MSG<TURMateriał wybuchowy do
+wysadzania drzwi i takich tam.<WAI9999<END
+#6014
+<FLJ3000:1200
+<FLJ3001:1201
+<FLJ3002:1202
+<FLJ3003:1203
+<FLJ3004:1204
+<MSG<TURZwierzak Jenki.<WAI9999<END
+#6015
+<KEY<MSGZregeneruje twoje zdrowie,
+ale tylko raz. Czy chcesz go użyć?<YNJ0000<LI+1000<SOU0020<IT-0015<MSG
+Zdrowie odnowione.<FRE<WAI9999<END
+#6016
+<MSG<TURNajwyraźniej to coś 
+leczy wszystko...<WAI9999<END
+#6017
+<MSG<TURTu jest napisane
+"Klinika Labiryntu".<WAI9999<END
+#6018
+<FLJ0742:7018
+<KEY<MSGNaciśnij przycisk skoku ponownie
+w powietrzu, aby podlecieć wyżej.<NOD<CLR
+Czy chcesz się w to wyposażyć?<YNJ0000<EQ+0001<FL+0742<EQ-0032<FL-0743<MSG
+Wyposażony w Booster v0.8.<NOD<WAI0003<FRE<EVE5018
+#6019
+<MSG<TURGdy odniesiesz obrażenia,
+stracisz o połowę mniej energii broni.<WAI9999<END
+#6020
+<MSG<TURZwiększa szybkość regeneracji
+amunicji karabinu maszynowego.<WAI9999<END
+#6021
+<MSG<TURMożesz z tym oddcyhać pod
+wodą. Zwykle używała go Curly.<WAI9999<END
+#6022
+<MSG<TURCałkowicie automatyczny stoper.
+Nie widzisz żadnych przycisków.<WAI9999<END
+#6023
+<FLJ0743:7023
+<KEY<MSGNaciśnij przycisk skoku ponownie
+w powietrzu, aby polecieć 
+w dowolnym kierunku.<NOD<CLR
+Czy chcesz się w to wyposażyć?<YNJ0000<EQ+0032<FL+0743<EQ-0001<FL-0742<MSG
+Wyposażony w Booster v2.0.<NOD<WAI0003<FRE<EVE5023
+#6024
+<MSG<TURMaska Mimigi, którą zrobiła
+matka Sue. Trochę za duża...<WAI9999<END
+#6025
+<MSG<TURKlucz wyłowiony przez
+pewnego Mimigę.<WAI9999<END
+#6026
+<KEY<MSGCzy chcesz go przeczytać?<YNJ0000<MSG<TUR
+Hej, Sue z tej strony.<NOD<CLRChyba nie mówiłam ci zbyt
+dużo o nas wszystkich.<NOD<CLRPrzybyliśmy na tę wyspę 
+z powierzchni w celach badawczych.<NOD<CLRW naszym helikopterze lecieli
+profesor Booster, moja mama, mój brat,
+różni asystenci...<NOD<CLR
+Także Doktor.<NOD<CLRSłużył nam jako lekarz wyprawy...<NOD<CLRDopóki nie znalazł 
+Korony Demonów...<WAI0020<NOD<CLRTa korona, kiedyś własność 
+pana tej wyspy,<NOD<CLRdaje potworne magiczne
+moce temu, kto ją nosi...<NOD<CLRDoktor wiedział o tym, i to
+nawet zanim przybył na wyspę,<NOD<CLRzresztą właśnie dlatego
+chciał dołączyć 
+do naszej grupy.<NOD<CLRKiedy już zdobył Koronę,
+nikt nie mógł mu
+się przeciwstawić.<NOD<CLRNie mieliśmy wyboru,
+musieliśmy kontynuować badania
+pod jego rozkazami.<NOD<CLRDoktor chce zawładnąć 
+powierzchnią Ziemi, używając
+tej wyspy jako bazy.<NOD<CLRSądzę, że planuje najpierw
+zaatakować powierzchnię,
+przy pomocy Mimigów.<NOD<CLRW każdym razie, jakoś udało
+mi się uciec, ale boję się,
+że reszta badaczy...<NOD<CLRTeraz Doktor wykorzystuje
+niczego niepodejrzewających
+Mimigów,<NOD<CLRaby hodować jeszcze
+więcej czerwonych kwiatów.<NOD<CLRGdy już będzie gotowy do ataku,
+wprowadzi Mimigów w morderczy
+szał przy użyciu tych kwiatów.<NOD<CLRDzięki swoim okropnym
+mocom, będzie mógł kontrolować 
+rozszalałych Mimigów.<NOD<CLR
+Mnie też...<NOD<CLRJeśli uda ci się uciec
+z tego areszu, szukaj kryjówki
+na plantacji.<NOD<CLRMoja mama powinna tam być,
+ma pewien plan.<NOD<CLRProszę. Pomóż mojej mamie.<NOD<CLRHasło to
+"Litagano Motscoud".<NOD<CLR<FL+1024<FRE<MSGKoniec listu...<WAI9999<END
+#6027
+<MSG<TURPotrzebny do budowy rakiety.
+Duma Itoha, tchórzliwego inżyniera.<WAI9999<END
+#6028
+<MSG<TURNiedziałający zraszacz.<WAI9999<END
+#6029
+<MSG<TURCałkiem nowy. ...Chyba.<WAI9999<END
+#6030
+<MSG<TURLina holownicza
+dla robotów.<WAI9999<END
+#6031
+<MSG<TURMały i dość ciężki.
+Nie ma zastosowania.<WAI9999<END
+
+#6032
+<MSG<TURHej! Już jesteśmy?<WAI9999<END
+#6033
+<MSG<TUROdznaka Grzyba, którą dostałeś 
+od grzyba. Raczej bezużyteczna.
+Szczerze mówiąc, w ogóle niepotrzebna...<FL+1563<WAI9999<END
+#6034
+<MSG<TURPodobno ma moc
+przywracania wspomnień...<WAI9999<END
+#6035
+<MSG<TURZnaleziona za ścianą.
+Zółtozielone majtki z uroczym
+znaczkiem. Nie mają zastosowania.<WAI9999<END
+#6036
+<MSG<TURMa wygrawerowaną podobiznę
+kosmity. Nie ma zastosowania.<WAI9999<END
+#6037
+<MSG<TURCzerwona szminka.
+Nie ma zastosowania.<WAI9999<END
+#6038
+<KEY<MSGMała ozdóbka, którą dostałeś 
+od Chaby w labiryncie.
+Figlarna gwiazdka.<NOD<FLJ0722:7038<CLR
+Czy chcesz się w nią wyposażyć?<YNJ0000<EQ+0128<FL+0722<MSG
+Wyposażono w Figlarną gwiazdkę.<NOD<WAI0003<FRE<EVE5038
+#6039
+<MSG<TURTwoja więź z Curly Brace,
+jedynym w pełnim zaufanym wojownikiem.
+Z pewnością kiedyś się jeszcze spotkacie...<WAI9999<END
+
+#7002
+<MLP<END
+
+#7018
+<KEY<MSGCzy chcesz to zdjąć?<YNJ0000<EQ-0001<FL-0742<MSG
+Booster v0.8 zdjęty.<NOD<WAI0003<FRE<EVE5018
+#7023
+<KEY<MSGCzy chcesz to zdjąć?<YNJ0000<EQ-0032<FL-0743<MSG
+Booster v2.0 zdjęty.<NOD<WAI0003<FRE<EVE5023
+
+#7038
+<KEY<MSGCzy chcesz to zdjąć?<YNJ0000<EQ-0128<FL-0722<MSG
+Figlarna gwiazdka zdjęta.<NOD<WAI0003<FRE<EVE5038
+

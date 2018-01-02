@@ -1,0 +1,30 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0100
+<PRI<FAO0004<TRA0002:0094:0125:0002
+#0101
+<PRI<SOU0011<DNP0101<FAO0004<TRA0002:0094:0125:0012
+
+
+
+#0200
+<KEY<FLJ1290:0201<FL+1290<MSGOho.<NOD<CLRŻołnierz z powierzchni?
+Nie spodziewałem się zobaczyć 
+tu jednego z was...<NOD
+Gdzie reszta?<NOD<CLR.....<NOD<CLRCo?
+Straciłeś pamieć?<NOD
+He-he-he...<NOD<END
+#0201
+<KEY<MSGCóż, dopóki starczy ci zapału,
+miłej wędrówki.<NOD<END
+

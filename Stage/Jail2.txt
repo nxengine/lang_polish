@@ -1,0 +1,52 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0099
+<KEY<MNA<CMU0008
+<ANP0200:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0200:0000:0000
+<MYD0002<DNP0301<SMC<END
+
+#0100
+<KEY<FAO0002<TRA0056:0092:0008:0049
+
+#0200
+<KEY<MSGCel nieznany.<NOD
+Czy mimo wszystko chcesz
+się teleportować?<YNJ0000<CLO<FL+0524
+<CNP0300:0111:0000<HMC<WAI0060<ANP0200:0001:0000
+<WAI0100<FAO0004<TRA0018:0099:0015:0010
+
+
+#0400
+<PRI<MSGJesteś robotem-zabójcą?<NOD<CLRPrzyszedłeś nas zabić?<NOD<END
+#0401
+<PRI<MSGWypuść mnie!<NOD<END
+#0402
+<PRI<MSGDoktor Ćwok może się 
+pocałować w dupę!<NOD<END
+
+#0403
+<PRI<MSGMimigowie z plantacji
+są okłamywani!<NOD<CLRDoktor chce nas zmusić,
+żebyśmy walczyli z robotami!<NOD<END
+#0404
+<PRI<MSGZnasz jakąś "Sakamoto"?<NOD
+Podobno ukrywa się gdzieś 
+na plantacji...<NOD<END
+#0405
+<PRI<MSGByło tutaj wcześniej
+paru ludzi, ale nie
+widziałem ich ostatnio...<NOD
+Ciekawe, czy uciekli.<NOD<END
+

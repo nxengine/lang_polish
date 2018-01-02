@@ -1,0 +1,318 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<FLJ0341:0095<CMU0002<FAI0004<END
+
+#0095
+<CMU0014<FAI0004<END
+
+
+#0098
+<CMU0014
+<ANP0500:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<END
+
+#0099
+<KEY<MNA<FLJ0341:0098<CMU0002
+<ANP0500:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<END
+
+
+#0100
+<PRI<FAO0004<TRA0010:0094:0018:0032
+#0101
+<PRI<FAO0004<TRA0012:0094:0037:0011
+#0102
+<FLJ0155:0103<PRI<SOU0011<DNP0102<FAO0004<TRA0011:0094:0016:0053
+#0103
+<PRI<SOU0011<CMU0000<DNP0102<FAO0004<TRA0011:0400:0016:0053
+
+
+#0200
+<FLJ0159:0205
+<FLJ0158:0204
+<FLJ0157:0203
+<FLJ0325:0202
+<FLJ0154:0201
+<KEY<MSGNa ekranie widać słowa...<NOD<CLR<TUR"...Chociaż, jeśli będę musiał..."<NOD<FLJ0153:0000<CLR<MSGCzy chcesz zezwolić na
+teleportację do Smoczego korytarza?<YNJ0000<CLRZezwolono na teleportację.<NOD<FL+0153<PS+0001:6001<END
+#0201
+<KEY<MSGNa ekranie widać słowa...<NOD<CLR
+<TURŁączenie z Grasstown...<NOD<END
+#0202
+<KEY<MSG<TUR
+Połączono z Grasstown.<NOD<END
+#0203
+<KEY<MSG<TUR
+Wpisz komendę.<NOD<END
+#0204
+<KEY<MSG<TUR
+Połączono z Sand Zone.<NOD<END
+#0205
+<KEY<MSGNa ekranie widać słowa...<NOD<CLR<TUR
+Kieruj się na Smoczy korytarz
+                        --Kazuma<NOD<END
+#0210
+<KEY<MSGKwiaty...?<NOD<END
+
+#0300
+#0301
+#0303
+
+#0500
+<KEY<MSGTeleporter.<NOD<SLP<NOD<END
+
+#0600
+<FLJ0325:0601
+<KEY<MSG<FAC0009Witaj.<NOD<CLRSue wróciła.<NOD
+Zamknęliśmy ją w klatce
+na zewnątrz.<NOD
+Kiedy ludzie Doktora
+przyjdą, spróbujemy
+odebrać Toroko
+z powrotem.<NOD
+W zamian za Sue.<NOD<CLRWiem, to niezbyt miłe,
+ale Toroko to jedna z nas.<NOD<CLR
+Właśnie takie coś 
+cię spotyka, gdy działasz
+na własną rękę.<NOD<END
+#0601
+<KEY<MSG<FAC0009Mam nadzieję, że Toroko
+nic nie jest...<NOD<END
+
+
+#0620
+<KEY<CMU0000<FL+0156<FL+0444
+<ANP0500:0001:0000
+<WAI0002<CNP0622:0055:0000<WAI0010
+<FAI0004
+<CNP0621:0113:0000
+<ANP0621:0030:0000<WAI0100
+<MSG<FAC0018Ooooch...<NOD<CLR<FAC0010...Wszystko w porządku?<NOD<CLO<FAC0000
+<WAI0030<ANP0621:0000:0002
+<MSG<FAC0018...Mmm.<NOD<CLRCałe życie przeleciało
+mi przed oczami.<NOD<CLR<FAC0010.....<NOD<CLO<FAC0000
+<ANP0500:0000:0000<WAI0030
+<ANP0102:0000:0002<SOU0011
+<CNP0625:0042:0000
+<MSG<FAC0001Kazuma!!<NOD<ANP0622:0000:0002<CLRI profesor Booster!<NOD<CLR<FAC0018Oh!<NOD<CLO<FAC0000
+<ANP0621:0003:0002<WAI0080
+<ANP0621:0000:0002
+<MSG<FAC0018A więc nic ci nie jest?!<NOD<CLR<FAC0001Można tak powiedzieć.<NOD<CLO<FAC0000
+<CNP0624:0061:0000
+<ANP0625:0003:0000<WAI0016
+<ANP0624:0008:0000<WAI0016
+<ANP0624:0000:0000
+<SOU0011<ANP0102:0000:0000<WAI0048
+<ANP0625:0000:0000
+<MSG<FAC0007.....<NOD<CLR<FAC0018Kim jest ten Mimiga?<NOD<CLO<FAC0000
+<WAI0030
+<ANP0625:0000:0002<WAI0030
+<ANP0624:0000:0002<WAI0050
+<ANP0625:0000:0000<WAI0020
+<MSG<FAC0001To King.<NOD<CLRMój przyjaciel
+z tej wioski.<NOD<CLRNormalnie było tutaj
+całe mnóstwo Mimigów,<NOD
+ale prawie wszyscy
+zostali porwani przez
+ludzi Doktora.<NOD<CLRNawet King stracił 
+przyjaciół...<NOD<CLO
+<CMU0002
+<ANP0500:0001:0000
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<FL-0157<END
+
+#0621
+<KEY<FLJ0158:0631<MSG<FAC0018Jak na razie wszystko
+idzie po myśli Doktora...<NOD
+Jeśli czegoś szybko
+nie zrobimy...<NOD<END
+#0622
+<KEY<FLJ0158:0632<MSG<FAC0010Dzięki za pomoc.<NOD<CLRNasz transport co prawda
+nie przetrwał, ale za to
+nam się udało.<NOD<END
+#0624
+<KEY<FLJ0158:0634<MSG<FAC0007Toroko jako
+śmiercionośna broń...<NOD
+Nie! Nigdy na to
+nie pozwolę!<NOD<END
+#0625
+<KEY<FLJ0158:0635<MYB0000<WAI0030<MYD0000<ANP0625:0000:0002<MSG
+<FAC0001Witaj ponownie!<NOD<CLRWygląda na to, że
+znowu coś ci zawdzięczam.<NOD
+Z pomocą mojego brata<NOD
+powinniśmy obejść to
+hasło.<NOD<CLO<FAC0000
+<ANP0625:0003:0000<WAI0008
+<ANP0625:0000:0000<MSG<FAC0001Booster!<NOD<CLRMożemy wziąć go ze sobą 
+jak już będziemy
+stąd uciekać?<NOD<CLO<FAC0000
+<ANP0622:0003:0002<WAI0015
+<ANP0622:0005:0002
+<MSG<FAC0018<CMU0000.....<NOD<CLR
+<FAC0010Profesorze.<NOD<CLR<FAC0001???<NOD<CLR<FAC0018Sue, moja droga...<NOD
+Musimy wstrzymać się 
+z naszą ucieczką.<NOD<CLRDoktor zlokalizował 
+już czerwone kwiaty.<NOD<ANP0624:0000:0000<CLR
+<FAC0007!!!<NOD<CLR<FAC0001Co?<NOD<CLR<FAC0018Jeszcze ich co prawda
+nie posiada, ale to tylko
+kwestia czasu.<NOD<CLRWygląda na to, że
+kwiaty znajdują się gdzieś 
+w Sand Zone.<NOD<CLR
+<FAC0007Sand Zone?<NOD<CLRMówisz, że tam
+znajdziemy Doktora?<NOD<CLR<FAC0018Hm,<NOD Doktora raczej nie,
+prędzej jego pomocników.<NOD
+Jeżeli nie zniszczymy
+kwiatów, zanim dostaną się 
+w jego ręce...<NOD<CLRW każdym razie, Sand Zone
+jest bardzo niebezpiecznym
+miejscem.<NOD
+Nawet, jeżeli się 
+tam udamy,<NOD
+nie ma gwarancji,
+że wrócimy żywi...<NOD<CLR
+<FAC0007Chcesz się poddać?<NOD<CLR<FAC0018Tak właściwie...<NOD<CLRJeden z nas byłby
+idealny do tej roboty.<NOD<CLO<FAC0000
+<ANP0621:0003:0002<ANP0625:0003:0000<WAI0020
+<ANP0621:0000:0002<WAI0002<ANP0625:0000:0002
+<MSG<FAC0018Chodzi o ciebie.<NOD<CLR
+<CMU0002<FAC0010...Kim on jest?<NOD<CLR<FAC0018W zasadzie...<NOD<CLRTo jeden z uzbrojonych
+robotów-zwiadowców,
+wysłanych na tę wyspę <NOD
+10 lat temu.<NOD<CLR<FAC0010Robot?!<NOD<CLR<FAC0018Sądziłem, że
+wszystkie zostały już 
+zniszczone,<ANP0621:0000:0000<NOD
+ale najwyraźniej
+się myliłem.<NOD
+To całkiem możliwe, że
+jeden z nich mógł...<NOD<CLR<FAC0010Profesorze.<NOD
+Mamy połączenie
+z Sand Zone.<NOD<CLR<FAC0018Widzę.<NOD<CLO<FAC0000
+<ANP0622:0003:0000<WAI0015
+<ANP0622:0000:0002
+<ANP0621:0000:0002<WAI0030<MSG<FAC0018Jesteś najodpowiedniejszą 
+osobą do tej wyprawy.<NOD<CLRProsimy. Pomóż nam.<NOD<FL+0158<PS+0003:6003<END
+
+
+
+
+#0631
+<KEY<MSG<FAC0018Możesz dostać się do Sand
+Zone przez teleporter.<NOD
+Znajdź czerwone kwiaty
+i zniszcz je wszystkie.<NOD<END
+#0632
+<KEY<MSG<FAC0010Więc jesteś jednym z...<NOD<CLRNawet nie zauważyłem.<NOD<CLRNo, no, musisz być 
+w takim razie
+dobrze uzbrojony.<NOD<END
+#0634
+<KEY<MSG<FAC0007Sand Zone...<NOD<END
+#0635
+<KEY<MSG<FAC0001Jeśli pozbędziesz się 
+czerwonych kwiatów, będzie
+można uniknąć wojny.<NOD<CLRTo duża odpowiedzialność.<NOD<END
+
+
+#0650
+<KEY<MSG<FAC0018Weź Sue ze sobą 
+i uciekajcie z tej wyspy...<NOD
+Błagam...<NOD<END
+
+#0651
+<DNP0651<KEY<MYD0000
+<ANP0500:0001:0000<WAI0050
+<MNP0650:0006:0007:0002
+<CNP0650:0113:0002
+<ANP0650:0030:0002<WAI0100
+<ANP0650:0000:0002
+<ANP0500:0000:0000<WAI0050
+<ANP0650:0003:0002<WAI0064
+<ANP0650:0000:0000
+<MSG
+<FAC0018.....<NOD<CLO<FAC0000
+<ANP0650:0000:0002<WAI0050
+<MSG<FAC0018A więc tylko ty...<NOD<CLR...Doktor zdobył 
+czerwone kwiaty.<NOD<CLR...Wszyscy Mimigowie
+z tej wioski
+są pod jego kontrolą.<NOD<CLRTragedia stała się 
+nieuchronna...<NOD<CLRPowinienem pozwolić uciec
+chociaż Sue, kiedy
+była do tego okazja...<NOD<CLO<FAC0000
+<ANP0650:0003:0002<WAI0022
+<ANP0650:0005:0002
+<IT+0023<FL+0744<FL+0162<GIT1023
+<MSG
+Dostałeś = Booster v2.0 =.<WAI0030<NOD<CLO<GIT0000
+<ANP0650:0000:0002
+<MSG<FAC0018Proszę, zważ na moją 
+ostatnią prośbę.<NOD<CLRJeżeli uda ci się znaleźć<NOD
+Sue, chcę, żebyś zabrał 
+ją z tej wyspy.<NOD<CLRTo córka Sakamoto,<NOD
+która nawet nie chciała
+tutaj przylecieć.<NOD
+Ale nie mogliśmy jej
+zostawić całkiem samej,<NOD
+więc nie miała wyboru
+i udała się w podróż
+razem z nami.<NOD<CLR
+Błagam cię.<NOD<CLRWeź tą dziewczynę ze
+sobą i uciekaj.<NOD<CLO
+<FL-0160<FL+0161<FL+0741<PS+0004:6004<END
+
+
+#0660
+<KEY<FLJ1020:0661<MSG<FAC0018Weź Sue ze sobą 
+i uciekajcie z tej wyspy...<NOD
+Błagam...<NOD<END
+#0661
+<KEY<MSG<FAC0018Bardzo przepraszam za
+ten chaos na wyspie.<NOD<CLRTo nasza wina,
+wina ludzi.<NOD<END
+
+
+#0700
+<KEY<CMU0000<FAO0004<TRA0024:0700:0002:0000
+
+
+#6001
+<PRI<MSGCzy chcesz udać się do
+Smoczego korytarza?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<FLJ0159:6011<TRA0002:0099:0005:0006
+#6002
+<PRI<MSGCzy chcesz udać się do Grasstown?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0006:0098:0004:0018
+#6003
+<PRI<MSGCzy chcesz udać się do
+Sand Zone?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0010:0099:0036:0033
+
+#6004
+<PRI<MSGCzy chcesz udać się do
+Labyrintu?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0043:0099:0010:0034
+
+#6005
+<PRI<MSGCzy chcesz udać się na
+Plantację?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0060:0099:0009:0009
+
+#6011
+<KEY<TRA0049:0099:0007:0006
+

@@ -1,0 +1,79 @@
+
+#0090
+<MNA<CMU0025<FAI0000<END
+#0091
+<MNA<CMU0025<FAI0001<END
+#0092
+<MNA<CMU0025<FAI0002<END
+#0093
+<MNA<CMU0025<FAI0003<END
+#0094
+<MNA<CMU0025<FAI0004<END
+
+#0100
+<KEY<FAO0000<TRA0052:0090:0017:0010
+
+#0120
+<KEY<SOU0011<ANP0120:0000:0002<FAO0004<TRA0055:0094:0009:0009
+<MSGTo wszystko...<NOD<END
+
+#0130
+<KEY<ITJ0032:0131<SOU0011<ANP0130:0000:0002<FAO0000<TRA0069:0090:0015:0008
+#0131
+<KEY<CMU0000<SOU0011<ANP0130:0000:0002
+<GIT1032<IT-0032<FL+1370<MSGWróciłeeeem!<NOD<CLO
+<FAO0000<TRA0069:0090:0015:0008
+
+#0140
+<KEY<FAO0000<MYD0000<TRA0094:0090:0014:0007
+
+#0200
+<PRI<MSGZnak?<NOD<END
+
+#0400
+<KEY<FLJ0960:0401<MSG<FAC0010Jeśli masz zamiar
+szukać rdzenia, to
+lepiej się pospiesz.<NOD<END
+#0401
+<KEY<CLO<FON0410:0016<WAI0050
+<MSG<FAC0010<MYD0000Wsiadaj.<NOD<CLO
+<CNP0420:0150:0000<HMC
+<ANP0400:0003:0000<WAI0032
+<ANP0400:0000:0002<WAI0032
+<ANP0420:0050:0000<WAI0032
+<ANP0420:0000:0002<WAI0032
+<DNP0400<DNP0420
+<ANP0410:0010:0002<WAI0200
+<MSG<FAC0010Trzymaj się mocno.<NOD<CLO<FAC0000
+<ANP0410:0020:0002<WAI0250
+<ANP0410:0010:0002<WAI0200
+<MSGI tak oto wasza ucieczka
+z wyspy zakończyła się 
+pomyślnie.<WAI0200<CLRNiedługo potem, Doktor
+rozpoczął swój atak
+na powierzchnię, używając
+pływającej wyspy jako bazy.<WAI0200<CLRCzy państwom na ziemi
+udało się przetrwać 
+szturm Doktora?<WAI0200<CLR<FAO0002Tak czy owak, nie miało
+to dla ciebie znaczenia.<WAI0200<CLRGłęboko w górach,
+poza zasięgiem Doktora,<WAI0200<CLRty i Kazuma spokojnie
+dożywaliście swoich dni...<WAI0200<CLR<CMU0026
+<TUR                - Koniec -<WAI9999
+<END
+
+
+#0410
+<KEY<MSGGrrrrrr...<NOD<END
+#0420
+
+
+#0600
+<KEY<MSGDzięki za pomoc
+w debugowaniu.<NOD
+Jak na razie gra
+kończy się tutaj<NOD
+Myślę, że następny etap
+będzie ostatnim.<NOD
+Ciekawe jak daleko dojdę
+w dwa miesiące...<NOD<END
+

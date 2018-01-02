@@ -1,0 +1,91 @@
+
+#0090
+<MNA<FLJ0341:0095<CMU0009<FAI0000<END
+#0091
+<MNA<FLJ0341:0096<CMU0009<FAI0001<END
+#0092
+<MNA<FLJ0341:0097<CMU0009<FAI0002<END
+#0093
+<MNA<FLJ0341:0098<CMU0009<FAI0003<END
+#0094
+<MNA<FLJ0341:0099<CMU0009<FAI0004<END
+
+#0095
+<CMU0028<FAI0000<END
+#0096
+<CMU0028<FAI0001<END
+#0097
+<CMU0028<FAI0002<END
+#0098
+<CMU0028<FAI0003<END
+#0099
+<CMU0028<FAI0004<END
+
+
+
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0011:0094:0043:0034
+
+
+#0200
+<FLJ0327:0201
+<KEY<MSG<FAC0007Klucz do domu Artura...<NOD
+Wydawało mi się, że był 
+jeszcze co najmniej jeden...<NOD
+A niech cię gęś kopnie,
+Toroko, tak jakbyś 
+nie wiedziała, że...<NOD<CLRCóż, może Jack wie,
+gdzie go znaleźć...<NOD<END
+#0201
+<KEY<MSG<FAC0007Toroko...
+Nie mogę w to uwierzyć...<NOD
+Starszy brat Toroko,
+Artur, był wspaniałym
+wojownikiem.<NOD
+Ale został zabity przez
+jednego z pomocników
+Doktora.<NOD
+A teraz, ja... nie udało mi
+się jej ochronić.<NOD<END
+
+#0210
+<KEY<MSG<FAC0009Istnieją dwa klucze
+do domu Artura.<NOD
+Jeden z nich ma Toroko.<NOD
+Drugi jest ukryty
+gdzieś na cmentarzu.<NOD<END
+
+#0220
+<KEY<MSG<FAC0009Artur, brat Toroko,
+walczył z przerażającym,
+czerwonym potworem.<NOD<CLROkropnym demonem tej wyspy,
+który pożera Mimigi.<NOD<CLRNie chodzi o Doktora,
+to... coś innego.<NOD
+Demon żył na tej wyspie
+od wieków.<NOD<CLRPrzybył tutaj, do naszej
+wioski,<NOD
+jednak Artur w pojedynkę 
+go wypędził.<NOD
+Jego waleczna sylwetka,
+samodzielnie broniąca
+wioskę przez zagrożeniem...<NOD<CLRNigdy tego nie zapomnę,
+póki żyję.<NOD<CLRZostał potem zabity przez
+Doktora, ale nie zmienia
+to faktu, że był prawdziwym
+bohaterem.<NOD<END
+
+
+
+#0300
+<ITJ0008:0301
+<KEY<MSG*trzaskający ogień*<NOD<FLJ0442:0000<CLRWidzisz coś leżącego
+za płomieniami.<NOD<END
+#0301
+<KEY<GIT1008<MSGCzy chcesz użyć 
+= Soku z meduzy =?<YNJ0000<CLO<GIT0000
+<IT-0008<ANP0300:0010:0000<WAI0030<FLJ0442:0302<FL+0442
+<MSGZnajdujesz coś w popiole...<NOD<CLR<GIT0007<AM+0007:0100
+<CMU0010Znalazłeś = Bąbler =!<WAI0160<NOD<CLO<RMU<DNP0300<END
+#0302
+<KEY<DNP0300<END
+

@@ -1,0 +1,96 @@
+
+#0090
+<MNA<FAI0000<END
+#0091
+<MNA<FAI0001<END
+#0092
+<MNA<FAI0002<END
+#0093
+<MNA<FAI0003<END
+#0094
+<MNA<FAI0004<END
+
+#0100
+<KEY<CMU0000<WAI0100<SOU0101<WAI0020<SOU0035<WAI0200
+<FON0210:0016
+<WAI0100<CMU0000
+<ANP0200:0060:0002<FAI0003
+<WAI0300<DNP0220
+<WAI0200<DNP0200
+<ANP0230:0030:0000<WAI0002
+<ANP0230:0010:0000
+<FON0240:0016
+<WAI0160
+<MSG
+<CMU0010Kazuma cię złapał!<WAI0160<CLR<FAC0010Fiu...<NOD<CLRNie przypuszczałem,
+że naprawdę tego dokonasz.<NOD<CLRWysadzenie rdzenia...<NOD<CLRCóż, teraz świat powinien
+być wolny od wszelkich
+przyszłych wcieleń Doktora.<NOD
+Pokój uratowany!<NOD<CLR
+Lecimy do domu.<NOD<CLO
+<KEY<FAO0004<HMC<TRA0000:0100:0001:0015
+
+#0120
+<KEY<CMU0000
+<FON0240:0016
+<CNP0230:0356:0002
+<DNP0220<WAI0200
+<FAI0001
+<MSG<FAC0005<FL+2000<FL+1460Fiu!<NOD<CLRByło blisko.<NOD<CLR<FAC0019Myślałam, że tym razem
+nic nas nie uratuje...<NOD
+Znowu ci coś 
+zawdzięczamy.<NOD<CLO<FAC0000<WAI0050
+<MSG<FAC0005Ee, nie dziękujcie mi.<NOD
+Robiłem tylko to,
+co chciała Misery.<NOD<CLR<FAC0025Misery? Znaczy się,
+ta czarownica?<NOD<CLR
+<FAC0005Zgadza się.<NOD<CLR<FAC0025Myślałam, że nas
+nienawidzi.<NOD
+Ba, myślałam, że TY
+nas nienawidzisz...<NOD<CLR<FAC0005Pokonaliście Ballosa,
+no nie?<NOD<CLRW ten sposób
+uwolniliście nas
+od klątwy.<NOD
+Teraz żadne z nas
+nie musi słuchać 
+niczyich rozkazów!<NOD<CLR<FAC0019Myślałam, że jesteście
+zwykłymi zbirami,<NOD
+ale to wszystko
+przez Koronę?<NOD<CLR<FAC0005Cóż, sami się 
+o to prosiliśmy.<NOD
+W końcu to właśnie
+przez Misery
+Ballos stworzył Koronę.<NOD<CLR<FAC0025Ach.<NOD
+Naprawdę?<NOD<CLR<FAC0005Naprawdę.<NOD<CLO<FAC0000
+<WAI0150
+<MSG<FAC0005A więc!<NOD<CLR
+<FAC0025A więc?<NOD<CLR<FAC0005Co zamierzacie
+zrobić teraz?<NOD
+Mogę was zabrać,
+gdzie tylko chcecie.<NOD<CLR<FAC0019Hmm, racja...<NOD<CLRNasza misja jest
+skończona,<NOD i chętnie
+zamieszkałabym gdzieś,
+gdzie można odpocząć 
+i podziwiać ładny widok...<NOD<CLO<FAC0000
+<WAI0100<MSG<FAC0005Wybaczcie że spytam, ale...<NOD<CLR
+<FAC0025Hm?<NOD<CLR<FAC0005...Mogę zostać z wami?<NOD<CLR
+<FAC0019Pewnie!<NOD
+Możemy tam być 
+we trójkę!<NOD<CLR
+<FAC0014Serio?!<NOD<CLR<FAC0019Możesz wybrać miejsce.<NOD
+Tylko znajdź jakieś 
+ładne, dobrze?<NOD<CLR
+<FAC0014Okej!!<NOD<CLRNo dobra,
+<ANP0230:0020:0002t<WAI0010r<WAI0010z<WAI0010y<WAI0010m<WAI0010a<WAI0010ć <WAI0010s<WAI0010i<WAI0010ę <WAI0010!<WAI0010!<WAI0010!<NOD<CLO<FAC0000
+<KEY<FAO0004<HMC<ITJ0032:0121<TRA0000:0100:0001:0015
+
+#0121
+<KEY<WAI0100<MSG<GIT1032...Nie zapomniałeś 
+o czymś?<NOD<TRA0000:0100:0001:0015
+
+#0200
+#0210
+#0220
+#0230
+#0240
+

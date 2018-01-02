@@ -1,0 +1,88 @@
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<KEY<FLJ1000:0095<MNA<CMU0008<FAI0004<EVE0200
+#0095
+<MNA<CMU0008<FAI0004<END
+
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0004<TRA0053:0094:0075:0005
+
+#0110
+<KEY<SOU0011<ANP0110:0000:0002<FAO0000<TRA0056:0090:0118:0083
+
+#0200
+<KEY<FL+1000<FL+1025<FL+1038<MYD0002<WAI0050
+<ANP0400:0010:0000<MSG
+AAAA!<NOD<CLO
+<ANP0400:0020:0000<WAI0050<END
+
+#0400
+<KEY
+<FLJ1003:0404
+<FLJ1102:0403
+<FLJ1002:0402
+<FLJ1001:0401<FL+1001<FL+1038
+<ANP0400:0010:0000
+<MSGAaaaa!<MYB0002<NOD<CLRNie zabijaj mnie!<NOD
+Jestem człowiekiem!
+Tylko że magicznie
+zmienionym w Mimigę!
+Jestem człowiekiem!<NOD<CLRHę?<NOD<CLR.....<NOD<CLR<ANP0400:0000:0000<FAC0028Co?
+Nie jesteś jednym z
+tych robotów-zabójców?<NOD
+Cóż, przeraziłeś mnie
+na śmierć, wchodząc
+tak nagle!<NOD<CLRNie jesteś chyba tym
+wybawcą, co?<NOD<END
+
+
+#0401
+<KEY<FL+1002
+<MSG<FAC0028Jestem Itoh, jeden
+z ludzi, którzy przybyli
+na tę wyspę w celach
+badawczych.<NOD
+Ta wiedźma, Misery,
+mnie zaczarowała...<NOD
+Udało mi się uciec,
+ale... no spójrz
+na mnie.<NOD<CLRA teraz tkwię tutaj!<NOD<CLRWspiąłeś się tu
+z zewnątrz, prawda?<NOD
+Jestem znacząco
+utalentowanym
+inżynierem,<NOD
+ale mam śmiertelny
+lęk wysokości...<NOD<CLROj, ja biedny...<NOD<CLRPrzede wszystkim to
+w ogóle nie powinienem
+przylatywać na tę wyspę.<NOD<END
+
+#0402
+<KEY<MSG<FAC0028Nie nie, z pewnością 
+nie będziesz miał 
+pożytku z takiego
+żałosnego, opuszczonego
+człowieczka.<NOD<END
+
+
+#0403
+<KEY<MSG<FL+1003<FAC0028Itoh?<NOD Tak, to ja.<NOD<CLRCo?<NOD
+Sakamoto pracuje nad
+rakietą?<NOD<CLRCzyli ona wciąż żyje...<NOD
+Zawzięta osoba.<NOD
+Nie tak jak ja,
+to na pewno...<NOD<CLRHm, w porządku.<NOD
+Weź to.<NOD<FAC0000<GIT1027<IT+0027<CLR
+<CMU0010Dostałeś = Kontroler =.<WAI0160<NOD<RMU
+<CLR<FAC0028Myślę, że o to jej
+właśnie chodziło.<NOD<GIT0000<EVE0404
+#0404
+<KEY<MSG<FAC0028Pozdrów ode mnie
+panią Sakamoto.<NOD<END
+

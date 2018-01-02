@@ -1,0 +1,280 @@
+
+#0090
+<MNA<CMU0005<FAI0000<END
+#0091
+<MNA<CMU0005<FAI0001<END
+#0092
+<MNA<CMU0005<FAI0002<END
+#0093
+<MNA<CMU0005<FAI0003<END
+#0094
+<MNA<CMU0005<FAI0004<END
+
+#0098
+<KEY<MNA<CMU0005<FL+0224
+<ANP0100:0001:0000<FAI0004
+<CNP0401:0112:0002<WAI0100
+<ANP0100:0000:0000
+<MYD0002<SMC<DNP0401<END
+
+
+#0099
+<KEY<MNA<CMU0005
+<ANP0099:0010:0000
+<FAI0004<WAI0070
+<ANP0099:0000:0000<WAI0030<END
+
+
+#0100
+<KEY<MSGCzy chcesz udać się 
+do domu Artura?<FL-0227<YNJ0000<CLO
+<CNP0400:0111:0002<HMC<WAI0060<ANP0100:0001:0000
+<WAI0100<FAO0004<FLJ0219:0130<TRA0001:0099:0005:0008
+
+#0101
+<PRI<FL-0227<FLJ0212:0102<MSGZamknięte.<NOD<END
+#0102
+<PRI<SOU0011<DNP0101<FAO0004<TRA0007:0094:0015:0008
+#0103
+<PRI<SOU0011<DNP0103<FAO0004<TRA0008:0094:0009:0011
+
+#0104
+<PRI
+<FLJ0214:0106
+<ITJ0009:0105
+<MSGZamknięte.<NOD<END
+#0105
+SOU0022<MSG<GIT1009Użyto = Pordzewiałego klucza =.<NOD<CLO
+<GIT0000<FL+0214<EVE0106
+#0106
+<PRI<SOU0011<DNP0104<FAO0004<TRA0025:0094:0016:0007
+
+
+#0107
+<PRI<SOU0011<DNP0107<FAO0004<TRA0026:0094:0010:0007
+#0108
+<PRI<SOU0011<DNP0108<FAO0004<TRA0027:0094:0010:0009
+
+
+#0109
+<PRI
+<FLJ0222:0111
+<ITJ0010:0110
+<MSGWygląda na zamknięte.<NOD
+Na drzwiach jest napis
+"Guma".<NOD<END
+#0110
+<SOU0022<MSG<GIT1010Użyto = Klucza "guma" =.<NOD<CLO
+<GIT0000<FL+0222<EVE0111
+#0111
+<PRI<SOU0011<DNP0109<FAO0004<TRA0028:0094:0006:0013
+
+#0112
+<PRI<FAO0004<TRA0018:0094:0006:0010
+
+#0113
+<PRI<SOU0011<DNP0113<FAO0004<TRA0030:0094:0007:0009
+
+
+
+#0121
+<PRI<MSG<TUR
+               Dom Santy<NOD<END
+#0123
+<PRI<MSG<TUR
+                Centrum zasilania<NOD<END
+
+#0130
+<KEY<FL-0329<FL-0219<MYD0002<TRA0011:0420:0024:0029
+
+
+
+#0200
+<PRI<DNP0200<FL+0210
+<CMU0010<GIT1003<IT+0003<MSG
+Znalazłeś = Klucz Santy =!<WAI0160<NOD<CLO
+<GIT0000<RMU<END
+
+#0201
+<PRI<FLJ0228:0207<FL+0228<MSGOho.<NOD<CLRŻołnierz z powierzchni?<NOD
+Myślałem, że wojna już 
+się skończyła.<NOD<CLRA, nieważne.<NOD<CLO<EVE0207
+
+
+#0202
+<ITJ0008:0204<NCJ0094:0203
+<PRI<SOU0022<CNP0202:0021:0000
+<MSGOtwarto skrzynię.<NOD<GIT1008<IT+0008<CLR
+<CMU0010Znalazłeś = Sok z meduzy =!<WAI0160<NOD<DNP0202<RMU<END
+#0203
+<SOU0072<CNP0202:0015:0002<END
+#0204
+<CNP0202:0001:0000<END
+
+#0205
+<FLJ0481:0206
+<PRI<MSGWentylatory nie działają.<NOD
+Ktoś odciął prąd w
+tym obszarze.<NOD
+Jeśli chcesz je uruchomić,
+musiałbyś znaleźć
+Centrum zasilania.<NOD<END
+#0206
+<PRI<MSGPozwól, że dam ci radę.<NOD<CLRJeśli przytrzymasz przycisk skoku
+w czasie, gdy unosi cię 
+podmuch wentylatora,<NOD
+możesz podlecieć dużo wyżej.<NOD<END
+
+#0207
+<PRI<MSGJeśli masz zamiar iść 
+w tamtą stronę, uważaj
+na te duże stworki.<NOD
+Może zaboleć, jeśli
+na tobie wylądują.<NOD<END
+
+#0210
+<PRI<MSGMotocykl, który prowadził Kazuma.
+Już nie wygląda tak fajnie,
+jak przedtem.<NOD<END
+
+#0220
+<ITJ0013:0250
+<FLJ0221:0240
+<FLJ0484:0239
+<FLJ0215:0234
+<PRI<MSGNie otwiera się...<NOD<CLO
+<CNP0230:0106:0000<MYD0002<END
+#0230
+<FLJ0221:0237
+<FLJ0484:0236
+<FLJ0223:0235
+<FLJ0216:0233
+<FLJ0215:0232
+<PRI<MSGZauważasz kogoś przez
+szczelinę...<NOD<CLR
+Hej! Tutaj!<NOD<CLRWyglądasz na miłego,
+młodego człowieka.<NOD
+Naprawdę chciałbym stąd wyjść.
+Mógłbyś mi pomóc?<YNJ0231<CLRDzięki!<NOD<CLRWeź to.<NOD<GIT1009<IT+0009<FL+0215<CLR
+<CMU0010Odebrałeś = Pordzewiały klucz =.<WAI0160<NOD<RMU<CLRZnalazłem to na podłodze.<NOD
+Otwórz tym drzwi, dobra?<NOD<END
+#0231
+<PRI<MSGNaprawdę?...<NOD
+A niech to...<NOD<END
+#0232
+<PRI<MSGProszę...<NOD
+Otwórz mi drzwi...<NOD<END
+#0233
+<PRI<MSGCo?<NOD Ten klucz nie pasuje?<NOD
+No, po prostu wspaniale...<NOD<CLR.....<NOD<FL+0223<EVE0235
+
+#0234
+<PRI<FL+0216<MSGNie ma dziurki od klucza.<NOD
+Zamek musiał całkiem zardzewieć...<NOD<END
+#0235
+<PRI<MSGMusimy chyba po prostu
+wyważyć te drzwi...<NOD
+Tylko jak?<NOD<END
+
+#0236
+<PRI<MSGCo? Materiały wybuchowe?<NOD<CLRTak, to mogłoby zadziałać...<NOD
+A więc zbierasz materiały?<NOD<CLR.....<NOD<CLRMoment, powiedziałeś bryłka gumy?<NOD
+Czekaj chwilę.<NOD<CLO<WAI0100
+<MSGWeź to.<NOD<GIT1010<IT+0010<FL+0221<CLR
+<CMU0010Odebrałeś = Klucz "guma" =.<WAI0160<NOD<RMU<CLRWisiał na ścianie.<NOD
+Jest tu napis "guma".<NOD
+To musi mieć jakiś związek.<NOD
+Liczę na ciebie, młody człowieku!<NOD<END
+#0237
+<PRI<MSGI co, masz już bombę?<NOD<END
+
+
+#0239
+<PRI<MSGZamknięte, tak jak przedtem...<NOD<CLO
+<CNP0230:0106:0000<MYD0002<END
+#0240
+<PRI<MSGZamknięte, tak jak przedtem...<NOD<END
+
+#0250
+<PRI<FL+0521<FL+0522<IT-0013
+<MSG<GIT1013Podłożono = Bombę =.<NOD<CLO
+<FAO0004<TRA0018:0200:0006:0000
+
+
+#0302
+<PRI<FLJ0218:0001<FL+0218
+<SOU0022<CNP0302:0021:0000
+<MSGOtwarto skrzynię.<NOD<EVE0030
+
+#0305
+<PRI<DNP0305<SOU0022<CMU0016
+<MSG<GIT1006Znalazłeś = Kapsułkę zdrowia =!<WAI0160<NOD<RMU<ML+0005
+Maksymalny poziom zdrowia
+zwiększony o 5!<NOD<END
+
+#0400
+#0401
+
+#0450
+<PRI<MSGMotocykl?<NOD<END
+#0451
+#0452
+
+#0500
+<PRI
+<FLJ0211:0501
+<FL+0211
+<MSGWitaj.<NOD
+Nazywam się Santa.<NOD<CLRWyszedłem na zewnątrz, żeby
+zaczerpnąć trochę wody,
+gdy nagle zaatakowały
+mnie potwory.<NOD
+Uciekłem z powrotem do domu,
+ale gdzieś po drodze
+upuściłem klucz.<NOD<CLR
+...Nie mogę wejść do własnego domu.<NOD<END
+#0501
+<PRI<MSGBez klucza nie wejdę do domu...<NOD
+No i co teraz?<NOD<END
+
+
+#0502
+<ITJ0003:0503<END
+#0503
+<KEY<FL+0212<MM0<MYD0000<WAI0030<PRI
+<MSGOch!<NOD<CLRTo klucz do mojego domu!<NOD<IT-0003<GIT1003<CLR
+Oddałeś = Klucz Santy =.<NOD<GIT0000<CLRDzięki!<NOD<CLO
+<KEY<ANP0500:0003:0000<WAI0176<ANP0500:0000:0002
+<SOU0011<CNP0101:0000:0000<WAI0010
+<PRI<MSGWejdź do środka.<NOD
+Mam dla ciebie nagrodę.<NOD<CLO<KEY
+<ANP0500:0005:0002<WAI0010<DNP0500
+<SOU0011<CNP0101:0018:0000<DNP0502<SOU0023<END
+
+#0600
+<KEY<FL+0219<CMU0000<FAI0004<MYD0002
+<MSG<FAC0010A więc, młody człowieku,
+możesz nas poprowadzić?<NOD<CLO<FAC0000
+<ANP0452:0000:0000<WAI0010
+<MSG<FAC0018Kazuma?<NOD<WAI0010<ANP0451:0000:0002<CLR<FAC0010Tak, proszę pana?<NOD<CLO<FAC0000
+<FAC0000<WAI0010<ANP0452:0000:0002<FON0450:0016<WAI0050
+<MSG<FAC0018Umiesz tym jeździć?<NOD<CLO<FAC0000
+<ANP0451:0003:0002<WAI0040
+<ANP0452:0003:0002<WAI0040
+<ANP0451:0005:0000<WAI0036
+<ANP0452:0000:0000<WAI0050
+<ANP0451:0000:0002
+<MSG<FAC0010Chyba tak.<NOD<CLO<FAC0000
+<ANP0451:0005:0000
+<ANP0452:0005:0000<WAI0020
+<ANP0450:0010:0000<DNP0451<DNP0452<WAI0030
+<ANP0450:0020:0000<WAI0060<FOM0016<MYB0000
+<WAI0200<MSGNie działają HAMULCEEEEEEEE!!<WAI0050<NOD<CMU0005
+<DNP0450<FL-0523<FL+0225<END
+
+
+#1200
+<KEY<ANP1200:0020:0002
+<FON1200:0016<FAI0001
+<WAI0100<FAO0001<TRA0010:1200:0050:0034
+

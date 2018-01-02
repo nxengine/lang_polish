@@ -1,0 +1,63 @@
+
+#0090
+<MNA<CMU0021<FAI0000<END
+#0091
+<MNA<CMU0021<FAI0001<END
+#0092
+<MNA<CMU0021<FAI0002<END
+#0093
+<MNA<CMU0021<FAI0003<END
+#0094
+<MNA<CMU0021<FAI0004<END
+
+
+
+
+#0700
+<KEY<FL-0440<FL-0443<CMU0021<FAI0004
+<MSG<TURŁączenie z siecią...<WAI0050
+<TURZalogowano.<WAI0050
+<TURUruchamianie komunikatora...<WAI0100<CLR
+<MSG<FAC0001Kazuma!<NOD
+Jesteś tam?<NOD
+Wszystko w porządku?<NOD<FAO0004<TRA0018:0700:0002:0000
+#0701
+<KEY<FAI0004<MSG<FAC0001To ja.<NOD
+Sue Sakamoto.<NOD<CLRA więc uciekłeś?<NOD
+Gdzie teraz jesteś?<NOD
+Znalazłam smocze jaja.<NOD
+Mama jest z tobą?<NOD<FAO0004<TRA0018:0701:0002:0000
+#0702
+<KEY<FAI0004<MSG<FAC0001Co najmniej jeden.<NOD
+Ale jest zablokowany
+hasłem.<NOD
+Możesz coś z tym zrobić?<NOD<FAC0000<CLR<TURUzyskiwanie informacji o
+użytkowniku "Kazuma"...<WAI0150<CLR<TURZakończono.
+Miejsce: Grasstown, struktura D<NOD
+Przeszukiwanie sprawnych teleporterów...<NOD<CLRPrzygotowania do połączenia z
+teleporterem "Grasstown"...<NOD<CLR
+<MSG<FAC0001No, w każdym razie idę 
+do ciebie.<NOD
+Po prostu zostań tam,
+gdzie jesteś i czekaj.<NOD<FAO0004<TRA0018:0702:0002:0000
+#0703
+<KEY<CNP0700:0042:0000<FAI0004<MSG.....<NOD
+Gdzie się podziewa
+tamten chłopak?<NOD<CLR
+<SOU0011<CNP0710:0061:0000<WAI0020<CMU0000<ANP0700:0000:0002!!<NOD
+<CLO<ANP0710:0008:0000<WAI0016<ANP0710:0000:0000
+<MSG<FAC0007Wróciłaś.<NOD
+Czekałem na ciebie...<NOD<CLR<FAC0002Ta? O co chodzi?<NOD
+Jestem tak jakby zajęta.<NOD<CLR<FAC0007Toroko została porwana
+przez ludzi Doktora.<NOD<CLR<FAC0001Co?!<NOD<CLR<FAC0009I uważamy, że TY jesteś 
+za to odpowiedzialna!!<NOD<FAC0000<CLO
+<ANP0710:0008:0000<WAI0100<FAO0004<MSG
+<FAC0003Wypuśćcie mnie!<NOD<CLR<FAC0007O nie, w żadnym razie!<NOD<TRA0001:0099:0005:0008
+<END
+<END
+#0704
+
+
+#0710
+#0711
+

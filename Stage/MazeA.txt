@@ -1,0 +1,116 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+
+
+
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0004<TRA0039:0094:0033:0009
+
+
+#0200
+<PRI<MSG
+Dawno, dawno temu, na tej
+wyspie żyła pewna czarownica.<NOD
+To ona zbudowała ten
+labirynt, żeby trzymać 
+nas, Gaudi, w zamknięciu.<NOD<END
+#0210
+<PRI<MSGZ tego labiryntu jest
+jedno wyjście, ale
+zablokowane przez
+wielki głaz.<NOD<CLRA jego przesunięcie to
+dopiero początek...<NOD<END
+#0220
+<PRI<FLJ1020:0221<MSGAach... Jestem TAKI GŁODNY...
+mięso Mimigów...<NOD<CLR*pociąga nosem*<NOD<CLR
+Pachniesz trochę jak Mimiga.<NOD<END
+#0221
+<PRI<MSGHa-ha-ha...<NOD<CLRŚmieszny jesteś.<NOD<END
+#0230
+<PRI<MSGWidziałeś kiedyś, co znajduje
+się poza wyspą?<NOD<CLRTa wyspa unosi się 
+wysoko w powietrzu.<NOD
+Dlaczego nie spada?<NOD
+Sekret tkwi gdzieś 
+w tym labiryncie.<NOD<END
+#0240
+<PRI<FLJ0720:0241
+<MSGTen teleporter zazwyczaj
+działał, ale jakiś czas
+temu przestał.<NOD
+No, ale oczywiście prowadził 
+tylko w inne miejsce
+labiryntu...<NOD<END
+#0241
+<MSGWydaje się, że teleporter
+już działa.<NOD<CLRNo, ale oczywiście
+prowadzi tylko w inne miejsce
+labiryntu, co nie?<NOD<END
+
+
+#0300
+#0301
+<KEY<MNA<CMU0008
+<ANP0310:0001:0000<FAI0004
+<CNP0301:0112:0000<WAI0100
+<ANP0310:0000:0000
+<MYD0000<DNP0301<SMC<END
+#0310
+<KEY<FLJ0720:0311
+<KEY<MSGTeleporter.<NOD<CLRNie działa.<NOD<END
+#0311
+<CNP0300:0111:0002<HMC<WAI0060<ANP0310:0001:0000
+<WAI0100<FAO0004<TRA0045:0301:0002:0053
+
+
+#0400
+<KEY<FLJ0721:0410<MSGWitaj.<NOD<CLROto Sklepik, chyba jedyny
+w całym labiryncie!<NOD
+Przy czym, przykro mi
+to mówić, ale zostaliśmy
+obrabowani jakiś czas
+temu, i nie mamy nic
+na sprzedaż.<NOD
+Przepraszam za to...<NOD<CLO<AMJ0002:0401<AMJ0013:0404<EVE0402
+#0401
+<KEY<MSGHm?<NOD<CLRHej, masz ze sobą 
+całkiem fajne rzeczy.<NOD<CLRGwiazda polarna i Ogniokula,
+jeśli się nie mylę.<NOD<CLRMogę rzucić na nie okiem?<YNJ0403<CLO
+<AM-0003
+<WAI0020<MSG<GIT0002Przekazałeś Gwiazdę polarną.<NOD
+<GIT0003Przekazałeś Ogniokulę.<NOD<GIT0000<CLR
+<SOU0044Hoho!<NOD<CLR<FL+0721<GIT0001<CLR
+<TAM0002:0001:0000<CMU0010= Wąż = ukończony!<WAI0160<NOD<RMU<END
+#0402
+<KEY<FL+0721<MSG*ech*<NOD<CLRMoże weźmiesz to?<NOD<CLR<GIT1020<CLR
+<CMU0010<IT+0020<EQ+0008Dostałeś = Turboprzeładowarkę =!<WAI0160<NOD<RMU<GIT0000<CLRMożesz ją sobie wziąć za darmo.<NOD
+I tak nie widzę, żebyś 
+miał jakieś pieniądze.<NOD<END
+#0403
+<KEY<MSG<CLRNie wiesz, co tracisz!<NOD<END
+#0404
+<KEY<FL+0721<MSG*ech*<NOD<CLRMoże weźmiesz to?<NOD<CLR<GIT1038<CLR
+<CMU0010<IT+0038Dostałeś = Figlarną gwiazdkę =!<WAI0160<EQ+0128<FL+0722<NOD<RMU<GIT0000<CLRWłaściwie tylko dla ozdoby,<NOD
+ale masz już najmocniejszą 
+broń, więc nic innego ci
+nie mogę dać.<NOD<END
+#0410
+<KEY<MSGTą, która zamknęła nas
+w tym labiryncie, jest
+czarownica imieniem Jenka.<NOD<CLR...Ale nie zrobiła tego, bo
+nas nienawidzi, czy coś.<NOD
+Jesteśmy tutaj, aby czegoś 
+chronić.<NOD<CLR...W sumie nie pamiętam już,
+co to dokładnie jest, ale
+to nawet lepiej!<NOD<END
+

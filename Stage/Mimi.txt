@@ -1,0 +1,289 @@
+
+#0090
+<MNA<FLJ0341:0095<CMU0009<FAI0000<END
+#0091
+<MNA<FLJ0341:0096<CMU0009<FAI0001<END
+#0092
+<MNA<FLJ0341:0097<CMU0009<FAI0002<END
+#0093
+<MNA<FLJ0341:0098<CMU0009<FAI0003<END
+#0094
+<MNA<FLJ0341:0099<CMU0009<FAI0004<END
+
+#0095
+<CMU0028<FAI0000<END
+#0096
+<CMU0028<FAI0001<END
+#0097
+<CMU0028<FAI0002<END
+#0098
+<CMU0028<FAI0003<END
+#0099
+<CMU0028<FAI0004<END
+
+
+#0100
+<PRI<FLJ0324:0102
+<ITJ0001:0101
+<MSGZamknięte.<NOD<END
+#0101
+<SOU0022<GIT1001<FL+0324<FL+0441
+<MSGUżyto = Klucza Artura =.<NOD<GIT0000<CLO<EVE0102
+#0102
+<SOU0011<CNP0100:0000:0000<FAO0004<TRA0001:0094:0017:0008
+
+
+#0103
+<PRI<FAO0000<TRA0015:0090:0036:0014
+#0104
+<FLJ0327:0112
+<FLJ0360:0111
+<KEY<MSG<FAC0009Jestem Jack,<NOD
+numer dwa w wiosce.<NOD<CLRTe drzwi prowadzą na 
+cmentarz Mimigów, gdzie
+spoczywa nasz bohater,
+Artur.<NOD<CLRPytasz się, co tu
+właściwie robię? <NOD<CLRCóż, na cmentarzu
+wyrosło całe mnóstwo
+grzybów,<NOD
+więc pilnuję, żeby
+nie uciekły.<NOD<END
+
+#0105
+<KEY<FLJ0360:0106<SOU0011<ANP0105:0000:0002<EVE0106
+#0106
+<KEY<FAO0004<TRA0014:0094:0005:0009
+
+#0107
+<PRI<SOU0011<CNP0107:0000:0000<FAO0004<TRA0019:0094:0007:0010
+
+#0108
+<PRI<FAO0002<TRA0017:0092:0002:0011
+
+#0109
+<PRI<FAO0004<TRA0020:0094:0010:0009
+
+#0110
+<PRI<FAO0000<TRA0012:0090:0055:0009
+
+#0111
+<KEY<FL+0327<FL+0443<MSG<FAC0009Co?!<NOD
+Porwali Toroko?<NOD
+Och, nie!<NOD
+Muszę natychmiast
+powiadomić Kinga!<NOD<CLO
+<MYD0000
+<ANP0111:0008:0000<WAI0208
+<ANP0111:0000:0002<WAI0010
+<SOU0011<ANP0107:0000:0002<WAI0030
+<DNP0111
+<SOU0011<ANP0107:0000:0000<END
+
+#0112
+<PRI<FAO0002<TRA0016:0092:0002:0012
+
+
+
+#0200
+<PRI<FLJ0322:0201<FL+0322<SOU0022<CNP0200:0021:0000
+<MSGOtwarto skrzynię.<NOD<GIT1002<IT+0002<EQ+0002<CLR
+<CMU0010Znalazłeś = Elektroniczną mapę =!<WAI0160<NOD<RMU<EVE0201
+#0201
+<PRI<MSGJest tu jakiś napis...<NOD<CLR
+Tak długo, jak pozostanie
+w tobie duch odkrywcy, zawsze
+będziesz w stanie
+znaleźć wyjście.
+Szczerze w to wierzę.<NOD<END
+
+#0300
+#0301
+<KEY<FLJ0323:0305<FL+0320<FL+0323
+<MSG.....<NOD<CLO
+<MYB0000<WAI0050<MYD0000<CNP0301:0061:0002<WAI0008<CNP0301:0061:0004
+<MSG<FAC0007Co? Nie jesteś wrogiem?<NOD
+Byłem pewien, że to oni...<NOD<CLRJestem King.<NOD
+Numer jeden w tej wiosce.<NOD
+Nie, żeby dużo to teraz
+znaczyło, skoro została
+nas tylko szóstka.<NOD<CLRNo, siódemka,
+jeśli liczyć Sue.<NOD<CLRAle ona nie jest
+jedną z nas.<NOD
+To obca, pojawiła się 
+tutaj dość niedawno.<NOD<END
+
+#0302
+<KEY<FL+0320<FL+0321<FON0302:0016<MNA<FAI0004<CMU0000<WAI0100
+<MSG<FAC0007Podaj mi klucz!<NOD<CLR<FAC0008Nie!<NOD<CLR<FAC0007Nie próbujesz chyba
+chronić Sue?<NOD
+Ona nie jest jedną z nas!<NOD<CLR<FAC0006Sue jest dobrą osobą!<NOD
+Nie zdradziłabym jej
+za nic!<NOD<CLR<FAC0007Toroko...<NOD
+Dobrze wiesz, że kiedy
+przybędzie Doktor, znowu
+kogoś zabierze...<NOD
+Jeśli jej mu nie
+przekażemy, to zamiast Sue
+może zabrać na przykład
+ciebie.<NOD<CLR<FAC0006Ale... Ale...<NOD<CLR<FAC0007Klucz, Toroko!<NOD
+<FAC0000<CLO
+<MOV0013:0022
+<WAI0075<HMC<CNP0309:0150:0002<ANP0309:0010:0002<QUA0030
+<MSG?!<NOD<CLO
+<WAI0010
+<ANP0300:0006:0002
+<ANP0301:0006:0000
+<WAI0100
+<ANP0300:0006:0002
+<WAI0080
+<DNP0300
+<CMU0009
+<FOM0016<SMC<DNP0309<END
+
+
+#0305
+<KEY<MSG<FAC0007A niech tą Toroko
+gęś kopnie...<NOD
+Uciekła gdzieś zaraz po tym,
+jak spadłeś.<NOD<END
+#0306
+<KEY<MSG<FAC0007Grrrrr!<NOD<CLRToroko!<NOD
+Nie wymkniesz się 
+tak łatwo!<NOD<END
+#0307
+#0308
+<KEY<MYD0002<FAI0002<CMU0000<WAI0020
+<MSG<FAC0007Oddaj mi klucz!<NOD<CLR<FAC0008Nie!<NOD<CLO
+<ANP0307:0006:0002<WAI0060
+<ANP0306:0006:0002<SOU0016<WAI0100<DNP0307<FL-0371<CMU0009<END
+#0309
+
+
+#0311
+<KEY<MSG*nomnomnom*<NOD<CLR!<NOD<CLO
+<MYB0000<ANP0311:0002:0004<WAI0030<MYD0000
+<FLJ0156:0313
+<FLJ0120:0312
+<FLJ0360:0314
+<MSGOch! Przestraszyłeś mnie...<NOD<CLRSue?
+<NOD<CLRTak, to ta dziewczyna, co
+mieszka w domu Artura
+razem z Toroko.<NOD<CLRDoprawdy urocza.<NOD
+Mówi, że szuka
+latających smoków.<NOD<CLR
+Smoki, które szybują 
+w przestworzach...
+Myślisz, że one naprawdę istnieją?<NOD<ANP0311:0000:0002<END
+#0312
+<MSGA, to znowu ty.<NOD<CLRZabrali Sue na górę.<NOD
+Mówią, że to przez nią 
+Toroko została porwana.<NOD<ANP0311:0000:0002<END
+#0313
+<KEY<MSGW domu Artura jest wyjątkowo
+głośno...<NOD<CLRMają tam jakąś imprezę,
+czy co?<NOD<ANP0311:0000:0002<END
+#0314
+<KEY<MSGCo?<NOD
+Toroko została porwana?<NOD<CLRHm, to niedobrze.<NOD
+Jedyną dziewczyną, która została
+jeszcze w wiosce jest Sue...<NOD<ANP0311:0000:0002<END
+
+#0400
+<KEY<FL-0155<FON0400:0016<FAI0004<MNA<CMU0000<WAI0100<ANP0600:0011:0002
+<MSG<FAC0003Wypuść mnie natychmiast!<NOD<ANP0600:0000:0002<CLR<ANP0610:0000:0000<FAC0007Siedź cicho!<NOD<CLRTo przez CIEBIE Toroko
+została porwana!<NOD<CLRJedyne, co możemy zrobić 
+to przekazać im cię 
+i mieć nadzieję, że
+się uda.<NOD<ANP0600:0011:0002<CLR<FAC0003Ty dziwnooka paskudo!<NOD<ANP0600:0000:0002<CLR<FAC0007Jeśli Toroko nie wróci
+do nas cała i zdrowa,
+przysięgam, rozszarpię 
+cię na strzępy!<NOD<CLO<CMU0009
+<FOM0016<WAI0050<END
+
+
+#0410
+#0411
+#0420
+<KEY<HMC<CMU0000
+<CNP0410:0042:0002
+<CNP0411:0074:0000
+<ANP0610:0000:0000<WAI0100<MSG<FAC0007Więc jesteśmy... bronią?<NOD<CMU0009<FAI0004<CLR<FAC0002Zgadza się.<NOD<CLRDoktor chce użyć 
+czerwonych kwiatów, 
+żebyście zaatakowali ludzi.<NOD<CLR<FAC0009D--Dlaczego miałby
+to zrobić?!<NOD<CLR<FAC0002Ten człowiek jest...
+...jak diabeł.<NOD<CLR<FAC0009I zamierza użyć 
+tych kwiatów na Toroko?<NOD<CLR<FAC0002Z tego co wiem,
+to ciągle jeszcze ich
+szuka.<NOD<CLRMożemy tylko mieć 
+nadzieję, że mu
+się nie uda...<NOD<CLR<FAC0009Jeśli...<NOD<CLRJeśli znajdzie te kwiaty,
+Toroko...<NOD<CLR<FAC0002Mógłby ogarnąć ją szał...
+Śmiercionośna broń...<NOD<CLR<FAC0007Nigdy na to 
+nie pozwolę!<NOD<CLO
+<FL-0154<FL+0157
+<FAO0004<TRA0001:0620:0005:0008
+
+
+#0500
+<KEY<MSG<TUR            Góra: Farma Yamashita
+    Lewo: Zalew       Prawo: Cmentarz
+           Dół: Dom Artura<NOD
+<END
+
+#0501
+<KEY<MSG<TUR
+              Farma Yamashita<NOD<END
+#0502
+<KEY<MSG<TUR
+                 Zalew<NOD<END
+#0503
+<KEY<MSG<TUR             Cmentarz Mimigów
+             Niebezpieczeństwo!
+             Nie wchodzić!<NOD<END
+#0504
+<KEY<MSG<TUR
+              Dom Artura<NOD<END
+#0505
+<KEY<MSG<TUR
+               Sala zgromadzeń <NOD<END
+
+
+#0600
+<FLJ0224:0602
+<FLJ0325:0601
+<KEY<FL+0325<PS+0002:6002
+<MSG<FAC0001Cóż, wygląda na to,
+że utkwiłam...<NOD<CLRSłudzy doktora porwali
+Mimigę, myśląc, że
+to ja.<NOD
+Nazywa się Toroko,<NOD
+i podczas gdy reszta
+Mimigów nie chciała mieć 
+ze mną do czynienia,<NOD
+ona jedna była przyjazna
+i miła.<NOD<CLR.....<NOD<CLRTak, wiem.<NOD<CLRA może ty pójdziesz
+zamiast mnie?<NOD<CLRMój brat znajduje się 
+w miejscu zwanym
+Grasstown.<NOD
+Znajdź go i przyprowadź 
+tutaj.<NOD<END
+
+
+#0601
+<KEY<MSG<FAC0001Znajdź mojego brata 
+i przyprowadź go tutaj.<NOD
+Możesz dostać się do
+Grasstown przez teleporter
+w domu Artura.<NOD<END
+#0602
+<KEY<MSG<FAC0001Znalazłeś już
+mojego brata?<NOD<END
+
+#0610
+<FLJ0224:0611
+<KEY<MSG<FAC0007Taki los spotyka
+każdego, kto zakłóca
+porządek naszej wioski.<NOD<END
+#0611
+<KEY<MSG<FAC0007Wciąż czekam...<NOD<END
+

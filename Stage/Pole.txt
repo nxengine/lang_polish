@@ -1,0 +1,107 @@
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0095
+<CMU0008<FAI0001<END
+
+#0100
+<PRI<FAO0000<TRA0012:0094:0053:0036
+
+
+
+#0200
+<KEY<FLJ1640:0201<FL+1640<SOU0022<CNP0200:0021:0000
+<MSGOtwarto skrzynię.<NOD<GIT0002<AM+0002:0000<CLR
+<CMU0010Znalazłeś = Gwiazdę Polarną =!<WAI0160<NOD<GIT0000<CLO<RMU
+<MSG
+Niezidentyfikowana transmisja...<FAO0004<NOD<TRA0018:0501:0002:0000
+
+#0201
+<PRI<MSGPusto.<NOD<END
+
+#0210
+
+
+#0300
+<KEY<MSGChrrrrrr...<NOD<END
+
+#0301
+<FLJ1644:0303
+<KEY<MSGNie widziałeś może
+pistoletu, który zrobiłem?<NOD
+Ktoś przyszedł i ukradł mi
+go, kiedy spałem!<NOD
+A niech to, właśnie dlatego
+powinienem trzymać go
+w kieszeni podczas drzemki...<NOD<AMJ0002:0302<CLRNawet nie był ukończony!<NOD
+Trochę więcej pracy i
+mógłbym zrobić z niego
+naprawdę potężną broń.<NOD<CLR
+Ach, co za świat...<NOD<END
+
+#0302
+<KEY<MSG<CMU0000<MYB0002
+HEJ!!<NOD<CLRCzy to nie MOJA broń?!<NOD<CLR<GIT0002Co ty robisz?!
+Nie zrobiłem jej dla ciebie!<NOD<CLROddawaj!<NOD<CLR<CNP0210:0150:0012<WAI0012<GIT0000<HMC
+Zabrano = Gwiazdę Polarną = ...<NOD<CLRPff!<NOD
+Widzę, że zrobiłeś mojej
+broni niezły trening.<NOD<CLR
+.....<NOD<CLRWiesz,<NOD
+długo wierzyłem w to, że
+jeśli chcesz mieć broń,
+musisz ją sam wytworzyć.<NOD
+Ten, który walczy cudzą 
+bronią i uważa tą siłę 
+za swoją, jest głupcem.<NOD
+Ten, który obwinia swoje
+narzędzie o coś, czego
+własną mocą nigdy by nie
+osiągnął, jest jeszcze
+większym głupcem.<NOD<CLR
+<CMU0008Chociaż...<WAI0050<CLRKiedy widzę tą broń, którą 
+zużyłeś tak bardzo,
+zbiera mi się na łzy.<NOD
+Kto by pomyślał, że takie
+intensywne używanie było
+możliwe nawet przed
+jej ukończeniem...<NOD<CLR
+Hahhh...<NOD<CLRPrzepraszam za to zrzędzenie.<NOD<CLR
+Możesz zatrzymać tę broń.<NOD<CMU0000<FAO0001
+Oczywiście, jak już ją skończę.<NOD<CLO
+<WAI0150<FAI0001
+<FLA<WAI0050<TAM0002:0013:0000<FL+1644<FL+0303<MSG
+<CMU0010<MSG<GIT0013
+= Gwiazda Polarna = stała się 
+= Supernową =!<SMC<DNP0210<WAI0160<NOD<CMU0008<END
+
+#0303
+<KEY<MSGNa tym świecie istnieje
+równowaga pomiędzy tymi,
+którzy są wytwórcami,
+i tymi, którzy są 
+użytkownikami.<NOD<CLROczywiście zdawałem sobie
+z tego sprawę, ale potrzebna
+była twoja pomoc, żebym
+doświadczył tego bezpośrednio.<NOD
+Przyrzekam, że od teraz
+poświęcę się tworzeniu.<NOD
+Włożony w to wysiłek
+jest czystą radością,
+jeżeli wiem, że są tacy,
+którzy będą korzystać 
+w pełni z efektów
+mojej pracy.<NOD<END
+
+#0310
+<KEY<MSG<TUR
+"Over."<NOD<END
+
+

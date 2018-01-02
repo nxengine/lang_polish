@@ -1,0 +1,184 @@
+
+#0090
+<MNA<CMU0019<FAI0000<END
+#0091
+<MNA<CMU0019<FAI0001<END
+#0092
+<MNA<CMU0019<FAI0002<END
+#0093
+<MNA<CMU0019<FAI0003<END
+#0094
+<MNA<CMU0019<FAI0004<END
+
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0010:0094:0035:0026
+
+
+#0200
+<KEY
+<ITJ0014:0201
+<FLJ0594:0214
+<FLJ0593:0213
+<FLJ0592:0212
+<FLJ0591:0211
+<FLJ0590:0210
+<KEY<MSG<FAC0013Kim jesteś...?<NOD
+Nie widziałam cię 
+wcześniej w okolicy.<NOD<END
+
+#0201
+<IT-0014
+<FLJ0594:0224
+<FLJ0593:0223
+<FLJ0592:0222
+<FLJ0591:0221
+<FLJ0590:0220
+<KEY<MSG<FAC0013Och!<NOD<CLR<GIT1014Mój najdroższy
+szczeniaczek!<NOD<CLR
+<GIT0000<FAC0000Oddałeś = Szczeniaczka =.<NOD<CLR<CNP0300:0130:0000<DNP0401<FL-0274<FAC0013Wezmę go, dobrze?<NOD
+Bardzo dziękuję.<NOD<CLRCo?<NOD
+=Czerwone kwiaty=?<NOD<FAC0000<CLR<CMU0000<MSGHuzia!<NOD<CLO
+<CNP0400:0009:0000<WAI0010<MYD0002<CNP0300:0132:0002<ANP0300:0100:0002<WAI0120<CMU0011
+<CNP0400:0012:0000
+<MSG<FAC0005Jak leci, Jenka?<NOD<CLR<FAC0013Ach, Balrog.<NOD<ANP0300:0120:0002
+Widzę, że miewasz
+się świetnie.<NOD
+A jak sobie radzi moja
+przygłupia córka?<NOD<CLR<FAC0014Hi-hi-hi!<NOD
+Przygłupia? Chodzi ci
+o Misery?<NOD
+U niej wszystko w porządku.<NOD<CLRPojawił się nowy pan.<NOD
+Tym razem świat
+będzie nasz!<NOD<CLR<FAC0013Czyli znowu
+planujecie...<NOD<CLR<FAC0005Nie przyszedłem tutaj
+sprawiać ci kłopotów.<NOD
+Chcę tylko
+klucz do magazynu.<NOD<CLRDo tego, gdzie są 
+nasiona kwiatów!<NOD<CLR<FAC0013.....<NOD<CLRO, mój...<NOD<CLR
+O czym ty do
+diaska mówisz?<NOD<CLR
+<ANP0400:0030:0000<FAC0014Hoho!<NOD<CLRUdajemy głupią,
+co nie?!<NOD<CLR<FAC0005.....<NOD<CLRWidzę, co tu się dzieje.<NOD
+Postanowiłaś nas zdradzić.<NOD<CLO<CMU0000
+<WAI0050<FAC0005<MSGPożałujesz tego.<NOD<CLO
+<FAC0000<ANP0400:0010:0000<WAI0200<CMU0019
+<MSG<FAC0013<CNP0300:0130:0000Nowy pan...<NOD
+Co za bezużyteczny...<NOD<MYD0200<CLR.....<NOD<CLRSą jeszcze cztery inne.<NOD
+Cztery szczeniaczki.<NOD<CLRA ja jestem już taka słaba...<NOD<CLRCzy mógłbyś pomóc
+starszej pani i znaleźć
+jej pozostałe szczeniaczki?<NOD<FL+0590<END
+
+#0210
+<KEY<MSG<FAC0013Zostały jeszcze cztery...<NOD
+Czy mógłbyś pomóc
+starszej pani i znaleźć
+jej pozostałe szczeniaczki?<NOD<END
+
+#0211
+<KEY<MSG<FAC0013Zostały jeszcze trzy.<NOD
+Powodzenia.<NOD<END
+
+#0212
+<KEY<MSG<FAC0013Wygląda na to, że
+moje szczeniaczki bardzo
+cię lubią.<NOD<CLRJeszcze dwa...<NOD<END
+
+#0213
+<KEY<MSG<FAC0013Został tylko jeden...<NOD
+Naprawdę powinieneś 
+zostawić te kwiaty
+w spokoju.<NOD<END
+
+
+#0220
+<KEY<MSG<FAC0013Ach, jak szybko.<NOD<CLR<GIT1014To rzeczywiście
+jeden z moich
+kochanych szczeniaczków.<NOD<CLR
+<GIT0000<CNP0301:0130:0000<DNP0401<FAC0000Oddałeś = Szczeniaczka =.<NOD<CLR<FL-0274<FAC0013Hmmm...<NOD
+Jesteś żołnierzem
+z powierzchni, prawda?<NOD<CLR.....<NOD<CLRNie tak dawno setki
+robotów takich jak ty
+przybyły na tę wyspę.<NOD
+Mnóstwo Mimigów
+zginęło z ich rąk.<NOD
+Tak jak i ci z ludzi,
+którzy próbowali
+ich chronić.<NOD<CLRW końcu, osaczeni
+Mimigowie spożyli
+zakazane czerwone kwiaty,<NOD
+i w morderczym szale
+rozpoczęli kontratak.<NOD<CLRGdyby nie czerwone kwiaty,
+Mimigowie mogliby zupełnie
+zniknąć z tej wyspy...<NOD<CLRZostały jeszcze trzy.<NOD
+Powodzenia.<NOD<FL+0591<END
+
+#0221
+<KEY<MSG<FAC0013Ooo.<NOD<CLR<GIT1014Tak, tak.<NOD
+To jeden z moich
+ukochanych szczeniaczków.<NOD<CLR
+<GIT0000<CNP0302:0130:0000<DNP0401<FAC0000Oddałeś = Szczeniaczka =.<NOD<CLR<FL-0274<FAC0013Bardzo ci dziękuję..
+Mamy już trzy...<NOD<CLR.....<NOD<CLRWidziałeś kiedyś 
+oszalałego Mimigę?<NOD<CLROsaczeni Mimigowie
+mieli nadzieję, że kwiaty
+zapewnią im siłę.<NOD
+Zjedli je, po czym
+zwalczyli roboty.<NOD<CLR
+Jednak...<NOD<CLRWiesz, co stało się 
+z nimi potem?<NOD<CLR.....<NOD<CLRTo smutna historia...<NOD
+Opętani Mimigowie,
+zapewnie niezdolni do
+kontrolowania
+własnych czynów,<NOD
+zniknęli bez śladu.<NOD
+Jeśli wierzyć plotkom,
+zeszli na powierzchnię,<NOD
+gdzie żyją ludzie.<NOD<CLRArmia dzikich Mimigów
+uwolniona na ziemię...<NOD
+Gdyby to była prawda...<NOD<CLRRozumiesz już?<NOD
+Rozumiesz,
+jak niebezpieczne
+są czerwone kwiaty?<NOD<CLR.....<NOD<CLRJeszcze dwa szczeniaczki...<NOD<FL+0592<END
+
+#0222
+<KEY<MSG<FAC0013Wygląda na to, że cię  
+uwielbiają.<NOD
+Moje szczeniaczki
+nie obdarzają sympatią 
+byle kogo.<NOD<CLR<GIT1014Wielkie dzięki...<NOD<CLR
+<GIT0000<FAC0000Oddałeś = Szczeniaczka =.<NOD<CLR<CNP0303:0130:0000<DNP0401<FL-0274
+<FAC0013.....<NOD<CLRPrzyszedłeś po klucz
+do magazynu, prawda?<NOD
+Tego z nasionami
+czerwonych kwiatów...<NOD<CLRNie obchodzi mnie, kim
+jesteś, nie dostaniesz
+tego klucza.<NOD
+Otwarcie magazynu mogłoby
+spowodować powtórzenie
+tej samej tragedii...<NOD<CLRJeden, dwa, trzy...<NOD<CLRZostał już tylko jeden.<NOD<FL+0593<END
+
+#0300
+<FLJ0590:0310<END
+#0301
+<FLJ0591:0311<END
+#0302
+<FLJ0592:0312<END
+#0303
+<FLJ0593:0313<END
+#0304
+<FLJ0594:0314<END
+
+#0310
+<KEY<MSGHau!<NOD<END
+#0311
+<KEY<MSGHau hau!<NOD<END
+#0312
+<KEY<MSGHau hau hau!<NOD<END
+#0313
+<KEY<MSGBooop.<NOD<END
+#0314
+<KEY<MSGPięć!<NOD<END
+
+
+#0400
+#0401
+

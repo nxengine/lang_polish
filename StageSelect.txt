@@ -1,0 +1,13 @@
+#1000
+<KEY<MSG<TURBrak pozwolenia na teleportację.<WAI9999<END
+#1001
+<KEY<MSG<TURSmoczy korytarz<WAI9999<END
+#1002
+<KEY<MSG<TURGrasstown<WAI9999<END
+#1003
+<KEY<MSG<TURSand Zone<WAI9999<END
+#1004
+<KEY<MSG<TURLabirynt<WAI9999<END
+#1005
+<KEY<MSG<TURPlantacja<WAI9999<END
+

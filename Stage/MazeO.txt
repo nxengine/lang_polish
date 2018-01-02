@@ -1,0 +1,131 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FAI0004<END
+
+
+
+
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0000<MYD0000
+<FLJ0703:0101
+<TRA0039:0094:0084:0015
+#0101
+<FL+0704<TRA0039:0094:0084:0015
+
+#0105
+<KEY<FAO0004<TRA0039:0094:0091:0012
+
+#0200
+<KEY<MSGTajemniczy robot,
+Potwór X...<NOD
+Masz szansę go zaatakować,
+kiedy otworzy luk.<NOD<END
+
+
+#0300
+<KEY<MSGJestem lekarzem.<NOD
+Pozwól mi odnowić twoje zdrowie.<NOD<CLO<LI+1000<SOU0020
+<FLJ0704:0304
+<FLJ0702:0303
+<ITJ0016:0302
+<FLJ0700:0301<FL+0700<WAI0050
+<MSGNie nie, nie musisz płacić,
+nie martw się.<NOD<CLRW zamian chciałbym cię jednak
+o coś poprosić.<NOD<CLRNiedaleko stąd jest stara klinika.<NOD
+Pójdź i zobacz,
+czy nie zostały tam
+jakieś lekarstwa.<NOD<CLR
+<GIT1017<IT+0017Dostałeś = Klucz do kliniki =.<NOD<GIT0000<END
+#0301
+<KEY<MSGKlinika jest niedaleko stąd.<NOD
+Pójdź tam i poszukaj jakichś 
+lekarstw.<NOD<END
+#0302
+<KEY<MSG<IT-0016<FL+0702
+<GIT1016Przekazałeś = Panaceum =.<NOD<CLR<GIT0000O, znalazłeś!<NOD
+Wielkie dzięki.<NOD
+Resztę zostaw mnie.<NOD<END
+#0303
+<KEY<MSGWielkie dzięki.<NOD
+Resztę zostaw mnie.<NOD<END
+#0304
+<KEY<MSGWygląda na to, że lekarstwo
+działa.<NOD
+Powróci do pełnego zdrowia
+bardzo szybko.<NOD
+Wszystko dzięki tobie.<NOD<END
+
+#0310
+<FLJ0704:0313
+<FLJ0702:0312
+<FLJ0701:0311
+<KEY<MSGJestem pielęgniarką.<NOD
+Pracowałam w klinice
+niedaleko stąd,<NOD
+ale nawiedziły ją duchy,
+wiec uciekłam tutaj.<NOD<END
+#0311
+<KEY<MSGTo twoja przyjaciółka?<NOD
+Jeśli chcesz, żeby
+wyzdrowiała, rób to,
+co mówi doktor.<NOD<END
+#0312
+<KEY<MSGDobra robota.<NOD
+Nie widziałeś tam żadnych,
+duchów, co?<NOD<END
+#0313
+<KEY<MSGO, przyszedłeś sprawdzić,
+co z tą dziewczyną?<NOD<CLRPoszła w kierunku
+"Komnaty głazu".<NOD<END
+
+#0320
+<FLJ0702:0322
+<FLJ0701:0321<FL+0701
+<KEY<MSG<FAC0019O, cześć!<NOD<CLRNie widzieliśmy się 
+od jakiegoś czasu.<NOD
+Widzę, że z tobą 
+wszystko w porządku!<NOD<CLRTa czarownica cię tu 
+wtrąciła, co nie?<NOD
+Mnie też!<NOD<CLR<FAC0020Czyli jednak nie udało
+ci się ich pokonać...<NOD
+A miałam nadzieję...<NOD<CLRSama też próbowałam.
+Oj, próbowałam.<NOD
+I patrz, gdzie mnie to
+zaprowadziło.<NOD<CLR.....<NOD<CLRWszystko na próżno.<NOD
+Nie udało mi się 
+też uratować żadnego
+z tamtych dzieci.<NOD
+Jestem w takim stanie,
+że raczej szybko stąd
+nie wyjdę...<NOD<END
+#0321
+<KEY<MSG<FAC0020Tak, przeżyłam, ale
+co dalej?<NOD<CLRPewnie będę  
+tu siedzieć i gnić...<NOD<END
+#0322
+<KEY<MSG<FAC0020To legendarny
+Labirynt.<NOD
+Nie wiem, kto go zrobił,
+ale to najwyraźniej
+miejsce dla wszystkich
+wyrzutków z całej wyspy.<NOD<CLRJest z niego tylko
+jedno wyjście.<NOD
+Musisz przesunąć ogromny 
+głaz, żeby przejść.<NOD<CLRPoszłabym z tobą,<NOD
+ale w takim stanie
+tylko bym zawadzała...<NOD<FL+0760<FL+0703<END
+
+
+#0400
+<KEY<FLJ0705:0001<FL+0705<SOU0022<CNP0400:0021:0000
+<MSGOtwarto skrzynię.<NOD<GIT1019<IT+0019<EQ+0004<CLR
+<CMU0010Znalazłeś = Osłonę uzbrojenia =!<WAI0160<NOD<RMU<END
+

@@ -1,0 +1,101 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FAI0004<END
+
+#0100
+<KEY<SOU0011<DNP0100<FAO0002<TRA0056:0092:0024:0082
+
+#0200
+<KEY
+<FLJ1020:0201
+<EVE0299
+
+#0201
+<KEY
+<FLJ1121:0203
+<ITJ0028:0202
+<MSGTo są zraszacze.<NOD
+Cały czas się psują,<NOD
+dlatego zawsze mamy
+przygotowany zapas
+nowych.<NOD<END
+
+#0202
+<KEY<MSG<FL+1121Kolejny...?<NOD<CLR<GIT1028<IT-0028Oddałeś = Zepsuty 
+zraszacz =.<NOD<GIT0000
+<KEY<MSGObchodź się z tym ostrożnie.<NOD<DNP0280<GIT1029<IT+0029<CLR
+<CMU0010Dostałeś = Zraszacz =.<WAI0160<NOD<RMU<END
+
+#0203
+<KEY<MSGSłyszałem, że prawie
+wszystkie kwiaty już wyrosły!<NOD
+Czyli na szczęście nie
+zabrakło zraszaczy...<NOD<END
+
+
+#0210
+<KEY
+<FLJ1033:0212
+<FLJ1020:0211
+<EVE0299
+
+#0211
+<MSGTo prawda, że roboty
+z powierzchni zaatakowały
+w przeszłości tę wyspę.<NOD
+I wiem, że wielu z nas
+zostało wtedy zabitych...<NOD
+Ale niektóre z tych robotów
+rozumiały mowę.<NOD
+Sądzę też, że miały duszę...<NOD<END
+
+#0212
+<MSGSzlag by trafił 
+tego Doktora!<NOD<CLRZabierać to biedne,
+małe dziecko ze sobą!<NOD
+Och, gdybym tylko był 
+troszkę młodszy...<NOD
+Taki wstyd...<NOD<END
+
+#0220
+<KEY<FLJ1020:0221
+<EVE0299
+#0221
+<MSGNie wierzę w ani jedno
+słowo Doktora!<NOD<CLRRoboty? Tja!<NOD
+Uwaga, bo się przestraszę.<NOD<END
+
+#0230
+<KEY<FLJ1020:0231
+<EVE0299
+#0231
+<MSGJestem taki zmęczony...<NOD<END
+
+#0250
+<KEY<MYB0000<MSGO, cześć.<NOD<CLRCzy my się czasem
+nie spotkaliśmy wcześniej?<NOD
+Tak, w wiosce Mimigów.<NOD
+Jakaś "Misery" schwytała mnie
+i zabrała tutaj.<NOD
+Ech, nienawidzę grzebania
+się w ziemi.<NOD<CLRWłaśnie wychodziłem
+na ryby, żeby od tego uciec.<NOD<CLRLubisz łowić ryby?<NOD
+No cóż, to na razie.<NOD<CLO
+<ANP0250:0010:0002<WAI0030<MYD0002<WAI0080
+<ANP0250:0000:0002<WAI0020
+<ANP0250:0020:0002<ANP0100:0000:0002<SOU0011<WAI0020
+<DNP0250<ANP0100:0000:0000<SOU0011<FL+1120<FL+1021<END
+
+
+#0280
+#0299
+<PRI<MSG.....<NOD<END
+

@@ -1,0 +1,83 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0100
+<PRI<FAO0004<TRA0002:0094:0220:0007
+
+#0150
+<KEY<MSGWokół rozrzucone są 
+czerwone płatki.<NOD<END
+
+#0200
+<KEY<MSGZnalazłeś notatkę.<NOD<CLR<TURNie mogę się dostać do nr 00,
+kiedy osłona jest włączona.<NOD<CLR<TURJednym z tych terminali chyba
+można ją zdezaktywować...<NOD<END
+
+#0300
+<PRI<FLJ0200:0001<FL+0200
+<SOU0022<CNP0300:0021:0000
+<MSGOtwarto skrzynię.<NOD<CLR<EVE0030
+
+
+#0500
+
+#0501
+<PRI<MS3<TURSmocze jajo nr 01
+Błąd: Wykryto anomalię.
+Zalecane dalsze działania.<NOD<END
+#0502
+<PRI<MS3<TURSmocze jajo nr 02
+Stan: w normie.<NOD<END
+#0503
+<PRI<MS3<TURSmocze jajo nr 03
+Stan: w normie.<NOD<END
+#0504
+<PRI<MS3<TURSmocze jajo nr 04
+Stan: w normie.<NOD<END
+#0505
+<PRI<MS3<TURSmocze jajo nr 05
+Stan: w normie.<NOD<END
+#0506
+<PRI<MS3<TURSmocze jajo nr 06
+Błąd: Wykryto anomalię.
+Zalecane dalsze działania.<NOD<END
+#0507
+<PRI<MS3<TURSmocze jajo nr 07
+Stan: w normie.<NOD<END
+#0508
+<PRI<MSG<TURSmocze jajo nr 08
+Stan: w normie.<NOD<END
+#0509
+<PRI<MSG<TURSmocze jajo nr 09
+Stan: w normie.<NOD<END
+#0510
+<PRI<MSG<TURSmocze jajo nr 10
+Stan: w normie.<NOD<END
+#0511
+<PRI<MSG<TURSmocze jajo nr 11
+Stan: w normie.<NOD<END
+#0512
+<PRI<MSG<TURSmocze jajo nr 12
+Stan: w normie.<NOD<END
+#0513
+<PRI<MSG<TURSmocze jajo nr 13
+Stan: w normie.<NOD<END
+#0514
+<PRI<MSG<TURSmocze jajo nr 14
+Stan: w normie.<NOD<END
+#0515
+<PRI<MSG<TURSmocze jajo nr 15
+Stan: w normie.<NOD<END
+#0516
+<PRI<MSG<TURSmocze jajo nr 16
+Stan: w normie.<NOD<END
+

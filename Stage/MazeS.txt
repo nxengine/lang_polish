@@ -1,0 +1,181 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FLJ0761:0095<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0095
+<ANP0300:0020:0000<FAI0002<END
+
+
+#0100
+<KEY<FLJ0763:0101
+<SOU0011<ANP0100:0000:0002<FAO0000<MYD0000<TRA0043:0090:0016:0013
+#0101
+<PRI<MSGNie otwiera się!<NOD<END
+
+#0110
+<FLJ0764:0111<END
+#0111
+<KEY<FAO0004<MYD0002<TRA0045:0092:0002:0005
+
+
+
+#0200
+<PRI<FLJ0201:0201<MSGRzucono na to zaklęcie.
+Nie otwiera się...<NOD<END
+#0201
+<FLJ0766:0001<FL+0766<FL-0765<FL+0202
+<SOU0022<CNP0200:0021:0000
+<MSGOtwarto skrzynię.<NOD<CLR<TAM0005:0010:0000
+<CMU0010<GIT0010Twoje rakiety zostały ulepszone!<WAI0160<NOD<RMU<END
+
+#0300
+<KEY
+<FLJ0764:0303
+<FLJ0762:0302
+<FLJ0761:0301
+<FL+0761<MSG<FAC0019Aha!<NOD
+Byłam ciekawa, kiedy
+się pojawisz.<NOD<CLRJeśli udałoby nam się 
+usunąć ten kamień z drogi,
+dostalibyśmy się 
+do wyjścia.<NOD<CLRPogłoski mówią, że
+zaraz za nim znajduje się 
+gniazdo potworów...<NOD
+Lepiej być na to
+przygotowanym.<NOD<CLRTak czy tak, odsuńmy
+ten kamień.<NOD
+Weź z tamtej strony.<NOD<CLO
+<ANP0300:0020:0000<END
+#0301
+<KEY<ANP0300:0000:0000
+<MSG<FAC0019Co jest?<NOD
+Chyba się nie boisz?<NOD<CLRWątpię w to.<NOD
+Dalej, bierz tamtą stronę.<NOD<ANP0300:0020:0000<END
+#0302
+<PRI<MSGJest nieprzytomna.<NOD<END
+#0303
+<PRI<MSG<FAC0019W drogę!<NOD<CLRGniazdo pełne potworów
+na nas czeka!!<NOD<END
+
+
+#0310
+<KEY<CNP0310:0012:0004:<ANP0310:0080:0005<SMC
+<CMU0015<MSG
+Balrog pokonany!<WAI0140<NOD<CLO<FAC0000
+<CMU0008<FAO0004<MYD0002<TRA0044:0600:0009:0014
+<END
+
+#0320
+<KEY
+<FLJ0762:0322
+<FLJ0761:0321<EVE0500
+#0321
+<KEY
+<MNP0320:0000:0000:0000
+<MYD0002<MYD0003
+<MSG<FAC0019Gotowy? Pchaj!<NOD<CLO<FAC0000
+<ANP0300:0020:0000<WAI0050<MSGRRRRGH!<NOD<CLO<FAC0000
+<CNP0510:0334:0000
+<CNP0511:0334:0002<WAI0100
+<MSG<FAC0020.....<NOD<CLO<FAC0000
+<ANP0300:0000:0000<WAI0050<MYD0002
+<MSG<FAC0025Nie ruszyło się 
+ani o kawałek.<NOD
+Nie jestem pewna, czy
+nasza dwójka jest
+dostatecznie silna...<NOD<FAC0000<CLO
+<WAI0050
+<MSGHuzia!<CMU0000<NOD<CLO
+<CNP0310:0009:0002<WAI0100
+<CNP0310:0012:0002
+<ANP0310:0030:0002<CMU0011
+<MYD0000
+<MSG<FAC0019Ty!<NOD<CLR<FAC0014Hohoho!<NOD<CLRŻyjecie!<NOD<CLRMało tego, próbujecie
+się wydostać z Labiryntu!<NOD<CLRNie powinniście siedzieć 
+spokojnie, jak zwykłe,
+grzeczne robociki?<NOD<CLRNie możecie stawiać się 
+mojemu panowi bardziej
+niż ja, wiecie przecież.<NOD<CLRW porządku!<NOD
+Po prostu położę 
+temu kres.<NOD<CLRMam nadzieję, że nie
+macie nic przeciwko
+zostaniu kupką złomu!<NOD<CLR<FAC0019Właśnie kogoś takiego
+nam brakowało!<NOD
+Złap za środek,
+dobrze?<NOD<FAC0000<CLO<CMU0000
+<WAI0100
+<ANP0310:0060:0002<WAI0048
+<ANP0310:0050:0002<WAI0020
+<ANP0300:0020:0000<WAI0020
+<MYD0002<MYD0003<MSG<FAC0019Gotowi?
+Raz, dwa...<NOD<ANP0310:0080:0000<MYB0002<ANP0300:0030:0000<SOU0072<CLR<FAC0023CZY WY W OGÓLE
+SŁUCHACIE, CO MÓWIĘ?!<NOD
+<ANP0310:0000:0000<CMU0004<CNP0310:0169:0000<BSL0310
+<FL+0762<FL+0763
+<END
+#0322
+<PRI<END
+
+#0330
+
+
+
+#0500
+<KEY
+<FLJ0762:0502
+<FLJ0761:0501
+<MSGDuży, masywny głaz.<NOD
+Czujesz wiatr wiejący
+zza niego.<NOD
+Wygląda na to, że potrzeba
+co najmniej dwóch osób,
+żeby go przesunąć.<NOD<END
+#0501
+<KEY<WAI0010
+<ANP0300:0000:0000
+<MSG<FAC0025Możesz złapać go
+bliżej końca?<NOD<CLO
+<ANP0300:0020:0000<END
+#0502
+<PRI<MSGDuży, masywny głaz.<NOD<END
+
+#0510
+#0511
+
+
+#0600
+<KEY<FL-0763<FL+0764<FL-0760
+<SMC<CMU0008<CNP0330:0012:0002<ANP0300:0000:0002
+<MNP0320:0000:0000:0000
+<FAI0004
+<MSG<FAC0005Wygraliście...<NOD<CLRPrzesunę za was
+ten kamień.<NOD
+Ale pamiętajcie...<NOD<ANP0330:0000:0000<CLRNie mówcie NIKOMU,
+że wam pomogłem.<NOD<CLR<FAC0019Twój sekret zostanie
+między nami!<NOD<FAC0000<CLO
+<ANP0330:0060:0000<WAI0040
+<ANP0330:0050:0002<WAI0020
+<MYD0003<ANP0300:0020:0000
+<MSG<FAC0019Gotowy? Pchaj!<NOD<CLO<FAC0000
+<ANP0500:0010:0000<WAI0100
+<ANP0330:0080:0002
+<ANP0300:0000:0002
+<ANP0500:0020:0000<MYD0002<MSG
+<FAC0023Gaaaahhhh!!!<WAI0050<CLO<FAC0000
+<ANP0330:0000:0002
+<WAI0100<MSG<FAC0005Pamiętajcie.<ANP0300:0000:0000<NOD
+Ani słowa o tym,
+że wam pomogłem.<NOD<CLR<FAC0019Oczywiście!<NOD<CLO<FAC0000<ANP0330:0010:0000
+<WAI0160<CNP0200:0015:0002<WAI0040
+<MSG<FAC0019Nie wydaje mi się,
+żeby był aż tak zły.<NOD<CLO
+<FL+0781<FL+0765<CNP0016:0016:0002<END
+

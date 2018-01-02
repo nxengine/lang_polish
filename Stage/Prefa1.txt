@@ -1,0 +1,42 @@
+
+#0090
+<MNA<CMU0030<FAI0000<END
+#0091
+<MNA<CMU0030<FAI0001<END
+#0092
+<MNA<CMU0030<FAI0002<END
+#0093
+<MNA<CMU0030<FAI0003<END
+#0094
+<MNA<CMU0030<FAI0004<END
+
+#0100
+<KEY<ANP0100:0000:0002<SOU0011<FAO0004<TRA0062:0094:0079:0073
+
+
+#0150
+<KEY<DNP0150<CNP0016:0016:0002<END
+
+
+
+#0200
+<KEY<MSGZnalazłeś notatkę napisaną 
+przez prof. Boostera.<NOD
+Czy chcesz ją przeczytać?<YNJ0000<CLREksploracja dalszych części
+wyspy mogłaby być bardziej
+efektywna,<NOD gdybyśmy mieli
+sprzęt umożliwiający
+poruszanie się w powietrzu.<NOD<CLRTak więc rozpocząłem pracę 
+nad "Boosterem".<NOD<CLRRozwijanie tego latającego
+urządzenia będzie się odbywać 
+w dwóch etapach, zakończonych
+wersjami 0.8 i 2.0.<NOD<CLRW założeniu 0.8 ma umożliwiać 
+unoszenie się tylko
+w pewnym stopniu.<NOD<CLRJestem pewien, że w końcu
+ukończę wersję 2.0, jeżeli
+starczy mi na to życia.<NOD<CLRMoże się to okazać bardzo
+przydatną częścią wyposażenia.<NOD<CLO
+<FLJ0161:0000<WAI0050<MS2
+    Jeżeli starczy mi życia...<WAI0050<NOD<END
+
+

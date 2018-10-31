@@ -8,6 +8,15 @@
   "Reset" : "Zresetuj",
   "Resume" : "Kontynuuj",
 
+  "Graphics": "Grafika",
+  "Sound": "Audio",
+
+  "SFX volume: ": "Głośność dźwięku: ",
+  "Music volume: ": "Głośność muzyki: ",
+  "Bind keys": "Zdefiniuj klucze",
+  "Strafing: ": "Cofać się: ",
+  "Strafe": "Cofać się",
+
   "Resolution: ": "Rozmiar: ",
   "Fullscreen: ": "Pełny ekran: ",
   "On": "włączyć",
